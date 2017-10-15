@@ -8,7 +8,7 @@
 	<link>http://whiletrue.fm</link>
 	<language>en-us</language>
 	<image>
-	  <url>http://whiletrue.fm/images/whiletrue-dark-1920.png</url>
+	  <url>http://whiletrue.fm/images/whiletrue-dark-square.png</url>
 	  <title>whiletrue.fm</title>
 	  <link>http://whiletrue.fm</link>
 	</image>
@@ -37,27 +37,31 @@
 
   <!--
   <item>
-	<title>Episode Name 2</title>
+	<title>Hello, world!</title>
 	<link>
-	  http://podcast.example.com/episode2.mp4
+	  http://figure-out-where-to-upload.com
 	</link>
-	<pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+	<pubDate>Mon, 16 Oct 2017 00:00:00 UTC</pubDate>
 	<description>
-	  The full length episode 2 description
+	  In this inaugral episode of whiletrue.fm, we discuss the Elm programming
+	  language, Hidden Figures, mechanical keyboards, walking simulators and
+	  more!
 	</description>
-	<enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+	<enclosure url="http://figure-out-where-to-upload" length="36715125" type="audio/mpeg"/>
 	<guid>
-	  http://podcast.example.com/episode2.mp4
+	  http://figure-out-where-to-upload.com
 	</guid>
 	<itunes:duration>19:07</itunes:duration>
 	<itunes:summary>
-	  The full length episode 2 description
+	  In this inaugral episode of whiletrue.fm, we discuss the Elm programming
+	  language, Hidden Figures, mechanical keyboards, walking simulators and
+	  more!
 	</itunes:summary>
-	<itunes:image href="http://www.example.com/image3000x3000.png"/>
+	<itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
 	<itunes:keywords>
-	  comma,separated,key,words
+	  technology,programming,conversation,code
 	</itunes:keywords>
-	<itunes:explicit>no</itunes:explicit>
+	<itunes:explicit>Yes</itunes:explicit>
   </item>
   -->
 </rss>
