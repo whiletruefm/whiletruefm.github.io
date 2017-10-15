@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+	<lastBuildDate>Sun, 15 Oct 2017 00:00:00 UTC</lastBuildDate>
+	<pubDate>Sun, 15 Oct 2017 00:00:00 UTC</pubDate>
+
+	<title>whiletrue.fm</title>
+	<link>http://whiletrue.fm</link>
+	<language>en-us</language>
+	<image>
+	  <url>http://whiletrue.fm/images/whiletrue-dark-1920.png</url>
+	  <title>whiletrue.fm</title>
+	  <link>http://whiletrue.fm</link>
+	</image>
+	<description>
+	  A podcast about technology, programming and entertainment.
+	</description>
+	<copyright>
+	  whiletrue.fm copyight 2017
+	</copyright>
+	<atom:link href="http://whiletrue.fm/podcast-rss.xml" rel="self" type="application/rss+xml"/>
+	<itunes:author>whiletrue.fm</itunes:author>
+	<itunes:summary>
+	  A podcast about technology, programming and entertainment.
+	</itunes:summary>
+	<itunes:owner>
+	  <itunes:name>whiletrue.fm</itunes:name>
+	  <itunes:email>whiletrue.fm@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:explicit>No</itunes:explicit>
+	<itunes:keywords>
+	  technology,programming,conversation,code
+	</itunes:keywords>
+	<itunes:image href="http://whiletrue.fm/images/whiletrue-dark-1920.png"/>
+	<itunes:category text="Technology"/>
+  </channel>
+
+  <!--
+  <item>
+	<title>Episode Name 2</title>
+	<link>
+	  http://podcast.example.com/episode2.mp4
+	</link>
+	<pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+	<description>
+	  The full length episode 2 description
+	</description>
+	<enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+	<guid>
+	  http://podcast.example.com/episode2.mp4
+	</guid>
+	<itunes:duration>19:07</itunes:duration>
+	<itunes:summary>
+	  The full length episode 2 description
+	</itunes:summary>
+	<itunes:image href="http://www.example.com/image3000x3000.png"/>
+	<itunes:keywords>
+	  comma,separated,key,words
+	</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+  </item>
+  -->
+</rss>
