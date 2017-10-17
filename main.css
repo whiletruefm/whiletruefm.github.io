@@ -1,8 +1,43 @@
-body {
-        background-color: #073642;
+html, body {
+        background-color: #013340;
+}
+
+h1, h2, h3, h4, h5, h6 {
+        color: #b58900;
+        font-weight: bold;
+        text-align: center;
+}
+
+#header {
+        max-width: 640px;
+        margin: auto;
 }
 
 #logo {
         width: 100%;
+}
+
+#subtitle {
         margin: auto;
+        text-align: center;
+}
+
+#body {
+        font-family: "Roboto Mono";
+        color: #93a1a1;
+        margin: auto;
+        max-width: 640px;
+}
+
+#body audio {
+        margin: auto;
+        width: 100%;
+}
+
+#episodes {
+        text-align: center;
+}
+
+a {
+        color: #268bd2;
 }
