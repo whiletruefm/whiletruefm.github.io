@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <lastBuildDate>Sun, 17 Oct 2017 00:00:00 UTC</lastBuildDate>
+    <lastBuildDate>Sun, 4 Nov 2017 00:00:00 UTC</lastBuildDate>
     <pubDate>Sun, 17 Oct 2017 00:00:00 UTC</pubDate>
 
     <title>whiletrue.fm</title>
@@ -55,7 +55,7 @@
     <guid>
       http://whiletrue.fm/episode/0002.html
     </guid>
-    <itunes:duration>1:00:59</itunes:duration>
+    <itunes:duration>60:59</itunes:duration>
     <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
     <itunes:keywords>
       technology,programming,conversation,code
@@ -65,7 +65,7 @@
       Show notes are live at whiletrue.fm/episodes/0002.html
     </content:encoded>
   </item>
-	  
+  
   <item>
     <title>We Don't Do Segues Here</title>
     <link>
