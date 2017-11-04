@@ -33,6 +33,38 @@
     </itunes:keywords>
     <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
     <itunes:category text="Technology"/>
+  <item>
+    <title>A Very Cultural Introduction</title>
+    <link>
+      http://whiletrue.fm/episode/0002.html
+    </link>
+    <pubDate>Mon, 3 Nov 2017 00:00:00 UTC</pubDate>
+    <description>
+      Feedback from the inaugural episode told us to shape up and introduce ourselves. This is us, a mathematician's lament, playing/criticizing games, interviewing for internships, and more!
+    </description>
+    <itunes:subtitle>
+      Feedback from the inaugural episode told us to shape up and introduce ourselves. This is us, a mathematician's lament, playing/criticizing games, interviewing for internships, and more!
+    </itunes:subtitle>
+    <itunes:summary>
+      Feedback from the inaugural episode told us to shape up and introduce ourselves. This is us, a mathematician's lament, playing/criticizing games, interviewing for internships, and more!
+    </itunes:summary>
+    <itunes:author>
+      Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
+    </itunes:author>
+    <enclosure url="https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0002.m4a" length="85925390" type="audio/mp4"/>
+    <guid>
+      http://whiletrue.fm/episode/0002.html
+    </guid>
+    <itunes:duration>1:00:59</itunes:duration>
+    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:keywords>
+      technology,programming,conversation,code
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <content:encoded>
+      Show notes are live at whiletrue.fm/episodes/0002.html
+    </content:encoded>
+  </item>
 	  
   <item>
     <title>We Don't Do Segues Here</title>
@@ -43,15 +75,15 @@
     <description>
       In this inaugural episode of whiletrue.fm, we discuss the Elm programming language, Hidden Figures, mechanical keyboards, walking simulators, bad segues and more!
     </description>
-      <itunes:subtitle>
+    <itunes:subtitle>
       In this inaugural episode of whiletrue.fm, we discuss the Elm programming language, Hidden Figures, mechanical keyboards, walking simulators, bad segues and more!
     </itunes:subtitle>
-      <itunes:summary>
+    <itunes:summary>
       In this inaugural episode of whiletrue.fm, we discuss the Elm programming language, Hidden Figures, mechanical keyboards, walking simulators, bad segues and more!
     </itunes:summary>
-      <itunes:author>
-        Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
-      </itunes:author>
+    <itunes:author>
+      Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
+    </itunes:author>
     <enclosure url="https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0001.m4a" length="85925390" type="audio/mp4"/>
     <guid>
       http://whiletrue.fm/episode/0001.html
@@ -63,152 +95,8 @@
     </itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <content:encoded>
-  &lt;h1&gt;&lt;a id="Elm_0"&gt;&lt;/a&gt;Elm&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://elm-lang.org"&gt;Elm programming language&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://learnyouahaskell.com"&gt;&lt;em&gt;Learn You a Haskell for Great Good!&lt;/em&gt;&lt;/a&gt; by Miran Lipovača&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.playbattlegrounds.com/main.pu"&gt;PlayerUnknown’s Battlegrounds (PUBG)&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="PyGotham_2017_5"&gt;&lt;/a&gt;PyGotham 2017&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://2017.pygotham.org"&gt;PyGotham 2017&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://2017.pygotham.org/talks/"&gt;All talks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://2017.pygotham.org/talks/those-who-care-teach/"&gt;“Those Who Care. Teach!” by Kenneth Love&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=uVxzCrmdTG4"&gt;Video, from PyOhio 2017&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.colourblindawareness.org/colour-blindness/"&gt;Color Blind Awareness explains colorblindness&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;See also: &lt;a href="http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/"&gt;types of colorblindness&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://community.spotify.com/t5/Live-Ideas/Need-to-play-in-mono/idi-p/17377"&gt;2012 Spotify community thread asking for monaural&lt;/a&gt; (Scroll down for comments)
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://community.spotify.com/t5/Live-Ideas/Need-to-play-in-mono/idc-p/80413/highlight/true#M15670"&gt;First official response from Spotify, in 2013&lt;/a&gt; (scapegoating hypothetical producer objections to monaural downmixing)&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://community.spotify.com/t5/Live-Ideas/Need-to-play-in-mono/idc-p/894271/highlight/true#M15740"&gt;Second, final response from Spotify, in 2014&lt;/a&gt; (“Not Right Now”)&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://community.spotify.com/t5/Live-Ideas/Need-to-play-in-mono/idi-p/17377/page/21#comments"&gt;Latest comments in 2017 on the 21st page&lt;/a&gt; (As recent as &lt;a href="https://community.spotify.com/t5/Live-Ideas/Need-to-play-in-mono/idc-p/2633771/highlight/true#M131094"&gt;one day before the podcast recording in 2017&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Virtually every other comment in this chain is a different user (both the&lt;br&gt;
-  partially deaf and those with broken headphones) explaining why this feature&lt;br&gt;
-  is important to them. Check the thread tags:&lt;br&gt;
-  #SpotifyDontCareAboutHearingImpaired&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://play.hbogo.com"&gt;HBO GO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.fandor.com"&gt;Fandor&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="We_Dont_Do_That_Here_23"&gt;&lt;/a&gt;We Don’t Do That Here&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html"&gt;“We Don’t Do That Here”&lt;/a&gt; by Aja Hammerly&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Gender_Disparities_in_Tech_26"&gt;&lt;/a&gt;Gender Disparities in Tech&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://tedxuccs.com/presenters/"&gt;TEDx UCCS&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;“Harnessing the Power of Curiosity” by Daniel Lemmond (not yet posted)&lt;/li&gt;
-  &lt;li&gt;“Research - An Avenue for Curiosity” by Abby Graese, Dilly’s girlfriend (not yet posted)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.digitalundivided.com/infographics"&gt;Infographics from digitalundivided demonstrating pay gap between white men and black women&lt;/a&gt;, which Kenneth referred to
-  &lt;ul&gt;
-  &lt;li&gt;(&lt;em&gt;Oh no, the ombudsman wrote “pay gap”?&lt;/em&gt; The flaws of the 70 cents on the dollar study do not discredit studies of an entirely different pay gap.)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.digitalundivided.com/projectdiane-report/the-projectdiane-report-2016-the-real-unicorns-of-tech-black-women"&gt;The #ProjectDiane Report&lt;/a&gt;, from which this data comes, is available on their website (USD $49.95)&lt;/li&gt;
-  &lt;li&gt;More articles on this:
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.forbes.com/sites/geekgirlrising/2016/02/10/new-report-details-hurdles-for-black-women-launching-tech-startups/#77f60e222eaa"&gt;“New Report Details Hurdles for Black Women Launching Tech Startups”&lt;/a&gt; (2016) by Heather Cabot &amp;amp; Samantha Walravens, on the digitalundivided report&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://fortune.com/2017/03/13/female-founders-venture-capital/"&gt;“Venture Capital’s Funding Gender Gap is Actually Getting Worse”&lt;/a&gt; by Valentina Zarya&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://hbr.org/2017/09/the-comprehensive-case-for-investing-more-vc-money-in-women-led-startups"&gt;“The Comprehensive Case for Investing More VC Money in Women-Led Startups”&lt;/a&gt; by Wendy DuBow&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://genderpaygap.campaign.gov.uk"&gt;UK’s new law requires companies with more than 250 employees to post average salaries for men and women.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Hidden_Figures_39"&gt;&lt;/a&gt;Hidden Figures&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="www.foxmovies.com/movies/hidden-figures"&gt;&lt;em&gt;Hidden Figures&lt;/em&gt; film&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1dO8pvpWTaY"&gt;Example clip of Hidden Figures showing both women&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://movies.stackexchange.com/a/67625"&gt;Movies Stack Exchange answer with a gif of the scene in Mike’s mind&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.hollywoodreporter.com/behind-screen/how-hidden-figures-got-1960s-kodachrome-look-963042"&gt;Hidden Figures cinematographer/costume designer on this decision&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://letterboxd.com/lethargilistic"&gt;Mike’s letterboxd page&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Mechanical_Keyboards_46"&gt;&lt;/a&gt;Mechanical Keyboards&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.reddit.com/r/MechanicalKeyboards/"&gt;/r/MechanicalKeyboards&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;amp;c=57"&gt;Cherry MX Red&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;amp;c=56"&gt;Cherry MX Blue&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;amp;c=63"&gt;Cherry MX Green&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;Kenneth&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;amp;c=55"&gt;Cherry MX Brown&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;Dan and Mike&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://mechanicalkeyboards.com/shop/index.php?l=product_list&amp;amp;c=306"&gt;Gateron Brown Keys&lt;/a&gt;
-  &lt;ul&gt;
-  &lt;li&gt;Sam&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://whiletrue.fm/images/0001-sams-keyboard.jpg"&gt;Sam’s keyboard&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Stuffed_Animals_58"&gt;&lt;/a&gt;Stuffed Animals&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.howtotrainyourdragon.com/explore/dragons/toothless"&gt;Toothless&lt;/a&gt; of &lt;em&gt;How to Train Your Dragon&lt;/em&gt; fame&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.rustacean.net"&gt;Ferris the Crab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.obeythetestinggoat.com"&gt;Obey the Testing Goat!&lt;/a&gt; &lt;em&gt;Test-Driven Development with Python&lt;/em&gt; by Harry Percival&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pokémon)">Lapras, the 131st Pokemon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://whiletrue.fm/images/0001-mike-squirrel.jpg"&gt;Mike and Katarina the Squirrel&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Poor_Home_Improvement_Decisions_64"&gt;&lt;/a&gt;Poor Home Improvement Decisions&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://harrypotter.wikia.com/wiki/The_Burrow"&gt;Burrough from HP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canada's_Worst_Handyman"&gt;&lt;em&gt;Canada’s Worst Handyman&lt;/em&gt;&lt;/a&gt; by Proper Television&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Canada's_Worst_Driver"&gt;&lt;em&gt;Canada’s Worst Driver&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Walking_Simulator_video_games_69"&gt;&lt;/a&gt;Walking Simulator video games&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.abzugame.com"&gt;&lt;em&gt;ABZU&lt;/em&gt;&lt;/a&gt; by Giant Squid Studios&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://thatgamecompany.com/journey/"&gt;&lt;em&gt;Journey&lt;/em&gt;&lt;/a&gt; by thatgamecompany&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://freebirdgames.com/games/a-bird-story/"&gt;&lt;em&gt;A Bird Story&lt;/em&gt;&lt;/a&gt; by Freebird Games
-  &lt;ul&gt;
-  &lt;li&gt;The other game Mike was thinking of was &lt;a href="http://freebirdgames.com/to_the_moon/"&gt;&lt;em&gt;To the Moon&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h1&gt;&lt;a id="Contact_Us_75"&gt;&lt;/a&gt;Contact Us!&lt;/h1&gt;
-  &lt;ul&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://whiletrue.fm"&gt;whiletrue.fm&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://twitter.com/whiletruefm"&gt;@whiletruefm on Twitter&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://twitter.com/kennethlove"&gt;Kenneth on Twitter (@kennethlove)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://twitter.com/lethargilistic"&gt;Mike on Twitter (@lethargilistic)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://twitter.com/danlemmond"&gt;Dan on Twitter (@danlemmond)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://twitter.com/samwhoo"&gt;Sam on Twitter (@samwhoo)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://discord.gg/9zT7NHP"&gt;Programming Discussions on Discord&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;/ul&gt;
-      </content:encoded>
-    </item>
+      Show notes are live at whiletrue.fm/episode/0001.html
+    </content:encoded>
+  </item>
   </channel>
 </rss>
