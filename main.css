@@ -45,3 +45,40 @@ a {
 a:hover {
         color: #9A0008
 }
+/******************************
+footer
+******************************/
+footer
+{
+        padding-bottom:10px;
+        color: white;
+}
+footer p,h3,h4,h2
+{
+        text-align: center;
+        clear: both;
+        padding:0 auto;
+        margin:0 auto;
+
+}
+.social-icon
+{
+        clear: both;
+        width:100px;
+        height:100px;
+        margin:0 auto;
+        padding:0 auto;
+}
+.imgfoot
+{
+        clear: both;
+        margin:0 auto;
+        width:100%;
+        text-align:center;
+        padding:0 auto;
+}
+.footerContactMe
+{
+    padding-left:5%;
+    padding-right:5%;
+}
