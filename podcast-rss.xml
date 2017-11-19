@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <lastBuildDate>Sun, 4 Nov 2017 00:00:00 UTC</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 UTC</lastBuildDate>
     <pubDate>Sun, 17 Oct 2017 00:00:00 UTC</pubDate>
 
     <title>whiletrue.fm</title>
@@ -33,6 +33,40 @@
     </itunes:keywords>
     <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
     <itunes:category text="Technology"/>
+
+  <item>
+    <title>Polite and Inviting to Amazon Key and Sex Toys</title>
+    <link>
+      http://whiletrue.fm/episode/0003.html
+    </link>
+    <pubDate>Mon, 19 Nov 2017 00:00:00 UTC</pubDate>
+    <description>
+        Sam has been stricken with RSI, so the panel discusses techical whiteboard interviews, Amazon's in-home delivery service, disability depiction in X-Men comics, your wireless sex toy recording you, and more!
+    </description>
+    <itunes:subtitle>
+        Sam has been stricken with RSI, so the panel discusses techical whiteboard interviews, Amazon's in-home delivery service, disability depiction in X-Men comics, your wireless sex toy recording you, and more!
+    </itunes:subtitle>
+    <itunes:summary>
+        Sam has been stricken with RSI, so the panel discusses techical whiteboard interviews, Amazon's in-home delivery service, disability depiction in X-Men comics, your wireless sex toy recording you, and more!
+    </itunes:summary>
+    <itunes:author>
+      Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
+    </itunes:author>
+    <enclosure url="https://s3-us-west-2.amazonaws.com/whiletruefm.kl/whiletrue0003_level.wav" length="85925390" type="audio/wav"/>
+    <guid>
+      http://whiletrue.fm/episode/0003.html
+    </guid>
+    <itunes:duration>76:18</itunes:duration>
+    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:keywords>
+      technology,programming,conversation,code
+    </itunes:keywords>
+    <itunes:explicit>Yes</itunes:explicit>
+    <content:encoded>
+      Show notes are live at whiletrue.fm/episodes/0003.html
+    </content:encoded>
+  </item>
+
   <item>
     <title>A Very Cultural Introduction</title>
     <link>
