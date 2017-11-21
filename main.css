@@ -2,6 +2,11 @@ html, body {
         background-color: #003642;
 }
 
+footer
+{
+        text-align: center;
+}
+
 h1, h2, h3, h4, h5, h6 {
         color: #b58900;
         font-weight: bold;
@@ -45,3 +50,4 @@ a {
 a:hover {
         color: #9A0008
 }
+
