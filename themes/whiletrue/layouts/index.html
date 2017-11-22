@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <h2 id="subtitle">Welcome to whiletrue.fm!</h2>
+    <p id="subtitle">A fortnightly podcast about programming, tech, and entertainment.</p>
+    <ol id="episodes">
+        {{ range first 10 (where .Data.Pages "Section" "episodes") }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ol>
+{{ end }}

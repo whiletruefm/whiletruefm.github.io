@@ -1,19 +1,26 @@
-html, body {
+html,
+body {
         background-color: #003642;
+        color: #93a1a1;
+        font-family: "Roboto Mono";
 }
 
-footer
-{
+footer {
         text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
         color: #b58900;
         font-weight: bold;
         text-align: center;
 }
 
-#header {
+#site {
         max-width: 640px;
         margin: auto;
 }
@@ -27,20 +34,27 @@ h1, h2, h3, h4, h5, h6 {
         text-align: center;
 }
 
-#body {
-        font-family: "Roboto Mono";
-        color: #93a1a1;
+main {
         margin: auto;
         max-width: 640px;
 }
 
-#body audio {
+main audio {
         margin: auto;
         width: 100%;
 }
 
 #episodes {
+        list-style: none;
         text-align: center;
+}
+#episodes li:first-child,
+#episodes dt:first-child {
+        font-weight: bold;
+}
+#episodes li:first-child::before,
+#episodes dt:first-child::before {
+        content: "Latest: "
 }
 
 a {
@@ -50,4 +64,3 @@ a {
 a:hover {
         color: #9A0008
 }
-

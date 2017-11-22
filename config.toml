@@ -1,0 +1,7 @@
+baseURL = "https://whiletrue.fm"
+languageCode = "en-us"
+title = "whiletrue.fm"
+theme = "whiletrue"
+
+[permalinks]
+    episodes = "/:year/:month/:title/"

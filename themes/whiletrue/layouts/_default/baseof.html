@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <script src="https://use.fontawesome.com/8a49dee53a.js"></script>
+    <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href='{{ "css/whiletrue.css" | absURL }}'>
+    <link href="{{ .Site.RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link href="{{ .Site.RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+</head>
+
+<body>
+    <header id="site">
+        <a href="/">
+            <img id="logo" alt="whiletrue.fm logo" src=' {{ "img/whiletrue-dark-1920.png" | absURL }}' />
+        </a>
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        <p>Talk to us!</p>
+        <a href="http://twitter.com/whiletruefm" target="_blank"><i class="fa fa-twitter-square fa-5x" aria-hidden="true" alt="Twitter Logo" title="Connect with us on twitter" class="social-icon"></i></a>
+        <a href="http://github.com/whiletruefm" target="_blank"><i class="fa fa-github-square fa-5x" aria-hidden="true" alt="github Logo" title="Fork us on GitHub" class="social-icon"></i></a>
+        <br/>
+        <p>Follow the podcast!</p>
+        <a href="{{ .Site.RSSLink }}" target="_blank"><i class="fa fa-rss-square fa-5x" aria-hidden="true" title="Raw RSS feed" alt="RSS logo" class="social-icon"></i></a>
+        <a href="https://itunes.apple.com/gb/podcast/whiletrue-fm/id1297596315?mt=2" target="_blank"><i class="fa fa-apple fa-5x" aria-hidden="true" alt="iTunes logo" title="iTunes page" class="social-icon"></i></a>
+    </footer>
+</body>

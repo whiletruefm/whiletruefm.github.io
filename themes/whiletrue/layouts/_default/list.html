@@ -1,0 +1,8 @@
+{{ define "main" }}
+<dl id="episodes">
+    {{ range .Data.Pages }}
+    <dt><a href="{{ .Permalink }}">{{ .Title }}</a></dt>
+    <dd>{{ .Description }}</dd>
+    {{ end }}
+</dl>
+{{ end }}
