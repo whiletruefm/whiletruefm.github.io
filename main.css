@@ -2,9 +2,12 @@ html, body {
         background-color: #003642;
 }
 
-footer
-{
+footer {
         text-align: center;
+}
+
+footer .social-icon {
+        font-size: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
