@@ -6,6 +6,7 @@ date = 2017-10-28T17:37:48-08:00
 draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0002.m4a"
+aliases = ["/episode/0002.html"]
 +++
 
 <h3 id="feedback">Feedback</h3>
