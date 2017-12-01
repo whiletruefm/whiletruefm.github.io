@@ -8,7 +8,7 @@
     <link>http://whiletrue.fm</link>
     <language>en-us</language>
     <image>
-      <url>http://whiletrue.fm/images/whiletrue-dark-square.png</url>
+      <url>http://whiletrue.fm/img/whiletrue-dark-square.png</url>
       <title>whiletrue.fm</title>
       <link>http://whiletrue.fm</link>
     </image>
@@ -31,7 +31,7 @@
     <itunes:keywords>
       technology,programming,conversation,code
     </itunes:keywords>
-    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:image href="http://whiletrue.fm/img/whiletrue-dark-square.png"/>
     <itunes:category text="Technology"/>
 
   <item>
@@ -57,7 +57,7 @@
       http://whiletrue.fm/episode/0003.html
     </guid>
     <itunes:duration>76:18</itunes:duration>
-    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:image href="http://whiletrue.fm/img/whiletrue-dark-square.png"/>
     <itunes:keywords>
       technology,programming,conversation,code
     </itunes:keywords>
@@ -90,7 +90,7 @@
       http://whiletrue.fm/episode/0002.html
     </guid>
     <itunes:duration>60:59</itunes:duration>
-    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:image href="http://whiletrue.fm/img/whiletrue-dark-square.png"/>
     <itunes:keywords>
       technology,programming,conversation,code
     </itunes:keywords>
@@ -99,7 +99,7 @@
       Show notes are live at whiletrue.fm/episodes/0002.html
     </content:encoded>
   </item>
-  
+
   <item>
     <title>We Don't Do Segues Here</title>
     <link>
@@ -123,7 +123,7 @@
       http://whiletrue.fm/episode/0001.html
     </guid>
     <itunes:duration>58:06</itunes:duration>
-    <itunes:image href="http://whiletrue.fm/images/whiletrue-dark-square.png"/>
+    <itunes:image href="http://whiletrue.fm/img/whiletrue-dark-square.png"/>
     <itunes:keywords>
       technology,programming,conversation,code
     </itunes:keywords>
