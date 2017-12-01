@@ -6,6 +6,7 @@ date = 2017-10-14T16:12:56-08:00
 draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0001.m4a"
+aliases = ["/episode/0001.html"]
 +++
 
 ### Elm
