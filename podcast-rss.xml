@@ -52,7 +52,7 @@
     <itunes:author>
       Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
     </itunes:author>
-    <enclosure url="https://s3-us-west-2.amazonaws.com/whiletruefm.kl/whiletrue0003_level.wav" length="85925390" type="audio/wav"/>
+    <enclosure url="https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletrue-0003.m4a" length="112828491" type="audio/m4a"/>
     <guid>
       http://whiletrue.fm/episode/0003.html
     </guid>
@@ -85,7 +85,7 @@
     <itunes:author>
       Kenneth Love, Mike Overby, Sam Rose, and Daniel Lemmond
     </itunes:author>
-    <enclosure url="https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0002.m4a" length="85925390" type="audio/mp4"/>
+    <enclosure url="https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0002.m4a" length="90191420" type="audio/mp4"/>
     <guid>
       http://whiletrue.fm/episode/0002.html
     </guid>
