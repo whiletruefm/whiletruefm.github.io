@@ -4,7 +4,7 @@ description = "We'd love your ideas and feedback. Submit URLs and ideas for us t
 date = 2017-12-03T00:00:00-08:00
 draft = false
 +++
-<form name="ideas" netlify>
+<form name="ideas" netlify netlify-honeypot="pooh-bear">
     <label for="name">Your Name:</label>
     <div><input type="text" name="name" required></div>
     <label for="url">URL:</label>
@@ -12,4 +12,5 @@ draft = false
     <label for="comment">Suggestion/Comment:</label>
     <div><textarea name="comment"></textarea></div>
     <button type="submit">Send</button>
+    <input type="hidden" name="pooh-bear">
 </form>
