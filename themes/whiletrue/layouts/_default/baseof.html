@@ -10,10 +10,11 @@
 </head>
 
 <body id="site">
-    <header>
+    <header id="logo-header">
         <a href="/">
             <img id="logo" alt="whiletrue.fm logo" src=' {{ "img/whiletrue-light-1920.png" | absURL }}' />
         </a>
+        <a href="/ideas">Submit your ideas/feedback</a>
     </header>
     <main>
         {{ block "main" . }}{{ end }}

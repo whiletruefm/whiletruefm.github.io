@@ -34,6 +34,15 @@ h6 {
         text-align: center;
 }
 
+#logo-header {
+        margin-bottom: 1em;
+}
+
+#logo-header a {
+        display: block;
+        text-align: center;
+}
+
 main {
         margin: auto;
 }
