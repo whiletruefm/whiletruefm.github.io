@@ -3,3 +3,8 @@
 
 [context.deploy-preview.environment]
     HUGO_VERSION = "0.30.2"
+
+[[headers]]
+    for = "/*"
+    [headers.values]
+        Access-Control-Allow-Origin: *
