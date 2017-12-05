@@ -1,0 +1,23 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <time timestamp="{{ .Date }}">Recorded {{ .Date.Format "Jan 2, 2006" }}</time>
+
+    <p>{{ .Description }}</p>
+
+    <audio controls>
+        Your browser does not support the <code>audio</code> element.
+        <source src="{{ .Params.audio_url }}" type="audio/mp4">
+    </audio>
+    <p><a href="{{ .Params.audio_url }}">Direct link to audio</a></p>
+
+    <h2>Show Notes</h2>
+
+    {{ .Content }}
+
+    <nav>
+        {{ with .PrevInSection }}<p>Previously: <a href="{{ .Permalink }}"> {{ .Title }}</a></p>{{ end }}
+        {{ with .NextInSection }}<p>Next:<a href="{{ .Permalink }}">{{ .Title }}</a></p>{{ end }}
+    </nav>
+
+    {{ partial "episode_footer.html" . }}
+{{ end }}

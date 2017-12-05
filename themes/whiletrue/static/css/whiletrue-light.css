@@ -63,3 +63,33 @@ a {
 a:hover {
         color: #d70000;
 }
+
+form {
+        display: grid;
+        grid-template-columns: minmax(min-content, 1fr) 2fr;
+        grid-row-gap: 1rem;
+}
+
+form label {
+        padding-right: 1rem;
+        justify-self: end;
+}
+form input,
+form textarea {
+        height: 100%;
+        width: 100%;
+}
+
+form button {
+        background-color: #ede7d4;
+        border: 2px solid #585858;
+        border-radius: 5px;
+        padding: 0.5rem 1rem;
+        font-family: "Roboto Mono";
+        font-size: inherit;
+        grid-column-start: 2;
+}
+form button:hover {
+        background-color: #b58902;
+        cursor: pointer;
+}
