@@ -1,12 +1,16 @@
 +++
 title = "A Very Cultural Introduction"
 description = "Feedback from the inaugural episode told us to shape up and introduce ourselves. This is us, a mathematician's lament, playing/criticizing games, interviewing for internships, and more!"
-number = 0002
+number = "0002"
 date = 2017-10-28T17:37:48-08:00
 draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0002.m4a"
+audio_bytes = "90191420"
+audio_length = "60:59"
 aliases = ["/episode/0002.html"]
+tags = ["episode"]
+explicit = "No"
 +++
 
 <h3 id="feedback">Feedback</h3>

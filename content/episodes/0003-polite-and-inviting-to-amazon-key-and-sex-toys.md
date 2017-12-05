@@ -1,12 +1,16 @@
 +++
 title = "Polite and Inviting to Amazon Key and Sex Toys"
 description = "Sam has been stricken with RSI, so the panel discusses techical whiteboard interviews, Amazon's in-home delivery service, disability depiction in X-Men comics, your wireless sex toy recording you, and more!"
-number = 0003
+number = "0003"
 date = 2017-11-12T17:38:05-08:00
 draft = false
 categories = ["episode"]
-audio_url = "https://s3-us-west-2.amazonaws.com/whiletruefm.kl/whiletrue0003_level.wav"
+audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletrue-0003.m4a"
+audio_bytes = "112828491"
+audio_length = "76:18"
 aliases = ["/episode/0003.html"]
+tags = ["episode"]
+explicit = "Yes"
 +++
 
 <h3 id="feedback">Feedback</h3>

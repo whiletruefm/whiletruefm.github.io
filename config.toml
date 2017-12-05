@@ -3,5 +3,24 @@ languageCode = "en-us"
 title = "whiletrue.fm"
 theme = "whiletrue"
 
+[params]
+    authors = [
+        "Kenneth Love",
+        "Mike Overby",
+        "Sam Rose",
+        "Daniel Lemmond"
+    ]
+    description = "A podcast about technology, programming, and entertainment"
+    itunesAuthor = "whiletrue.fm"
+    itunesAuthorEmail = "whiletrue.fm@gmail.com"
+    itunesCategory = "Technology"
+    itunesKeywords = [
+        "technology",
+        "programming",
+        "conversation",
+        "code"
+    ]
+    itunesLogo = "img/whiletrue-dark-square.png"
+
 [permalinks]
     episodes = "/:year/:month/:title/"

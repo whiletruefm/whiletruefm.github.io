@@ -1,12 +1,16 @@
 +++
 title = "We Don't Do Segues Here"
-number = 0001
+number = "0001"
 description = "In this inaugural episode of whiletrue.fm, we discuss the Elm programming language, Hidden Figures, mechanical keyboards, walking simulators, bad segues, and more!"
 date = 2017-10-14T16:12:56-08:00
 draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0001.m4a"
+audio_bytes = "85925390"
+audio_length = "58:06"
 aliases = ["/episode/0001.html"]
+tags = ["episode"]
+explicit = "No"
 +++
 
 ### Elm

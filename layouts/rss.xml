@@ -1,0 +1,45 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <language>en-us</language>
+    <image>
+      <url>{{ .Site.Params.itunesLogo | absURL }}</url>
+      <title>{{ .Site.Title }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
+    <copyright>Copyright {{ now.Format "2006" }} {{ .Site.Params.itunesAuthor }}</copyright>
+    <itunes:author>{{ .Site.Params.itunesAuthor }}</itunes:author>
+    <itunes:summary>{{ .Site.Params.description }}</itunes:summary>
+    <description>{{ .Site.Params.description }}</description>
+    <atom:link href="{{ .Site.RSSLink | absURL }}" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>{{ .Site.Params.itunesAuthor }}</itunes:name>
+      <itunes:email>{{ .Site.Params.itunesAuthorEmail }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ .Site.Params.itunesLogo | absURL }}" />
+    <itunes:category text="{{ .Site.Params.itunesCategory }}"/>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:keywords>{{ delimit .Site.Params.itunesKeywords ","}}</itunes:keywords>
+    <lastBuildDate>{{ .Date }}</lastBuildDate>
+
+    {{ range .Site.Taxonomies.categories.episode.Pages }}
+      <item>
+        <title>{{ title .Title }} - whiletrue.fm {{ .Params.number }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date }}</pubDate>
+        <description>{{ .Description }}</description>
+        <itunes:author>{{ delimit .Site.Params.authors ", " ", and " }}</itunes:author>
+        <itunes:summary>{{ .Description }}</itunes:summary>
+        <enclosure url="{{ .Params.audio_url }}" length="{{ .Params.audio_length }}" type="audio/x-m4a" />
+        <guid>{{ .Permalink }}</guid>
+        <itunes:duration>{{ .Params.audio_length }}</itunes:duration>
+        <itunes:explicit>{{ .Params.explicit }}</itunes:explicit>
+        <itunes:keywords>{{ delimit .Site.Params.itunesKeywords "," }}</itunes:keywords>
+        <itunes:image hrf="{{ .Site.Params.itunesLogo | absURL }}"/>
+        <itunes:subtitle>{{ .Description }}</itunes:subtitle>
+        <content:encoded>Show notes are live at {{ .Permalink }}</content:encoded>
+      </item>
+    {{ end }}
+  </channel>
+</rss>
