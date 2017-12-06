@@ -1,8 +1,6 @@
 +++
 title = "Like a Bear Trap"
-description = "Days in the life of four programmers, confronting Real
-Programmer stereotypes, burnout in the tech world, social isolation, and
-a consumer review startup going to the mattresses after a lawsuit"
+description = "Days in the lives of four programmers: confronting the Real Programmer stereotype, burnout in the tech world, social isolation, and a consumer review startup going to the mattresses after a lawsuit"
 number = 0004
 date = 2017-11-25T17:38:05-08:00
 draft = false
