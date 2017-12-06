@@ -3,11 +3,15 @@ title = "Like a Bear Trap"
 description = "Sam has been stricken with RSI, so the panel discusses techical whiteboard interviews, Amazon's in-home delivery service, disability depiction in X-Men comics, your wireless sex toy recording you, and more!"
 number = 0004
 date = 2017-11-25T17:38:05-08:00
-draft = true
+draft = false
 categories = ["episode"]
-audio_url = "https://s3-us-west-2.amazonaws.com/whiletruefm.kl/whiletrue0003_level.wav"
+audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0004.m4a"
 aliases = ["/episode/0004.html"]
 +++
+
+The shownotes are bare this week due to Mike handling moving and doctor's
+appointments. He has collected them and will fill them in, but feel free to
+submit a pull request, if you feel so inclined.
 
 # A Day in the Life
 How each of the hosts spends a typical day
