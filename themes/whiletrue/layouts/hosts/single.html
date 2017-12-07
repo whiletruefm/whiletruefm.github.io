@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="host">
+    <header>
+        <h1>{{ .Title }}</h1>
+    </header>
+    <aside><img src='/media/hosts/{{ .Params.headshotFilename }}'></aside>
+    <section>
+        {{ .Content }}
+    </section>
+</article>
+
+    <nav>
+        {{ with .PrevInSection }}<p>Previously: <a href="{{ .Permalink }}"> {{ .Title }}</a></p>{{ end }}
+        {{ with .NextInSection }}<p>Next:<a href="{{ .Permalink }}">{{ .Title }}</a></p>{{ end }}
+    </nav>
+
+    {{ partial "episode_footer.html" . }}
+{{ end }}
