@@ -50,7 +50,7 @@ How each of the hosts spends a typical day
 * ["The Story of Mel, a Real Programmer"](https://www.cs.utah.edu/~elb/folklore/mel.html), traditional
 * ["Real Programmers"](https://xkcd.com/378/) by Randall Moore
 * [Apollo 12's troubled launch](https://en.wikipedia.org/wiki/Apollo_12#Launch_and_transfer)
-* [Tweet by Steve Klabnic (@steveklabnik)](https://twitter.com/steveklabnik/status/933383593539391489)
+* [Tweet by Steve Klabnik (@steveklabnik)](https://twitter.com/steveklabnik/status/933383593539391489)
 
 # Tech Burnout
 * ["Only You Can Prevent Tech Burnout"](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) by April Wensel
