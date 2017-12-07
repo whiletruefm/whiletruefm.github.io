@@ -21,13 +21,13 @@
     <itunes:category text="{{ .Site.Params.itunesCategory }}"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:keywords>{{ delimit .Site.Params.itunesKeywords ","}}</itunes:keywords>
-    <lastBuildDate>{{ .Date }}</lastBuildDate>
+    <lastBuildDate>{{ .Date.Format "Mon, 2 Jan 2006 15:04:06 MST" }}</lastBuildDate>
 
     {{ range .Site.Taxonomies.categories.episode.Pages }}
       <item>
         <title>{{ title .Title }} - whiletrue.fm {{ .Params.number }}</title>
         <link>{{ .Permalink }}</link>
-        <pubDate>{{ .Date }}</pubDate>
+        <pubDate>{{ .Date.Format "Mon, 2 Jan 2006 15:04:06 MST" }}</pubDate>
         <description>{{ .Description }}</description>
         <itunes:author>{{ delimit .Site.Params.authors ", " ", and " }}</itunes:author>
         <itunes:summary>{{ .Description }}</itunes:summary>
