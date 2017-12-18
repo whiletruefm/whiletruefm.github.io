@@ -51,8 +51,8 @@ aliases = ["/episode/0005.html"]
   - [Stockfish (chess engine)](https://en.wikipedia.org/wiki/Stockfish_(chess))
   - “Bodied", to smash, defeat
   - [Hanging pieces in chess](https://www.chess.com/chessopedia/view/hang-to-hang)
-  - [ImageNet](TODO)
-  - [ResNet](TODO)
+  - [ImageNet](http://www.image-net.org/challenges/LSVRC/)
+  - [ResNet](https://arxiv.org/pdf/1409.4842.pdf)
   - [Correction re: 4 hours: was actually 2 years of computer time, shared across 5000 TPUs](https://medium.com/@josecamachocollados/is-alphazero-really-a-scientific-breakthrough-in-ai-bf66ae1c84f2)
   - [TPU](https://en.wikipedia.org/wiki/Tensor_processing_unit)
   - [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
