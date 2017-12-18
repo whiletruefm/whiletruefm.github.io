@@ -1,4 +1,4 @@
-+++ 
++++
 title = 'Sam Rose'
 date = 2017-12-18T01:32:51Z
 headshotFilename = "sam-rose.jpg"
