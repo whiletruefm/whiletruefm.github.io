@@ -2,8 +2,8 @@
 title = "You Are The Worst Dataset"
 description = "Debugging wizardry is explored in an evil Go runtime bug, DeepMind continue to blow our minds, the iPhone X, Amazon Echo, Maori people and more"
 number = 0005
-date = 2017-12-17T12:00:00Z
-draft = true
+date = 2017-12-18T18:19:00Z
+draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0005.m4a"
 aliases = ["/episode/0005.html"]
