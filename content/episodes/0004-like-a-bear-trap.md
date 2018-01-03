@@ -17,16 +17,61 @@ submit a pull request, if you feel so inclined.
 How each of the hosts spends a typical day
 ## Mike Overby
 * [Unemployment in the United States](https://en.wikipedia.org/wiki/Unemployment_in_the_United_States)
+* "I'd like to thank the Academy"
+* The Academy
 * [Wookieepedia, the Star Wars wiki](starwars.wikia.com)
+* Darth Nihilus
 * [Eggnog](https://en.wikipedia.org/wiki/Eggnog)
+  * Artisinal eggnog
+* Darigold
+  * Their eggnog
+* Lactaid
+  * their eggnog
+  * Lactose-free
+* Southern Comfort
+  * their eggnog
+  * flavors
+* Whole Foods
+  * Holiday Nog
+  * Flaxmilk
+* Python
+* Web programming
+* C#
+* Desktop programming
+* London, United Kingdom
+* Barcelona, Spain
+* Washington, D.C., USA
+* Seattle, Washington, USA
 
 ## Daniel Lemmond
 * [*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network) by David Fincher
+  * Soundtrack by whomever
+* Trent Reznor
+* Nine Inch Nails
 * [Volentold](https://www.urbandictionary.com/define.php?term=Volentold)
+* UColorado research lab
+* Operating Systems
 * Supper Club
+  * Fish
+  * Curry
+  * Taco
+  * Pulled pork
+  * Shrimp linguine
+* Dan's internship story begins in 0001, and continues in 0002 and 0003.
+* Dan on Twitter
+* Ken on Twitter
+* Example of Ken destroying Dan
+* Amazon
+* Google
+* Boston, Massachusetts, USA
+* Facebook returning intern bonus
 * [Mark Zuckerburg](https://www.facebook.com/zuck)
+* "Welcome to Facebook" said by Zuck or the movie
 * [Russia](http://government.ru)
-* "Alternative Pixels" coined by Mike Overby in 0001.
+* Facebook and Russia in the election
+* Dank memes
+* By "Last episode," Dan means when Mike Overby coined "Alternative Pixels" in 0001.
+* Alternative facts
 
 ## Kenneth Love
 * [Good Mythical Morning](https://www.mythical.co/shows-good-mythical-morning)
