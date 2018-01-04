@@ -10,11 +10,12 @@ aliases = ["/episode/0006.html"]
 +++
 
 # Unnecessary Opinion Formation
-* Tweet from Nicole Cliffe
-* Nicole Cliff
-* Twitter
+* [Tweet from Nicole Cliffe(@Nicole_Cliffe)](https://twitter.com/Nicole_Cliffe/status/941784487867834368)
+* [Nicole Cliff](http://the-toast.net/author/nicole-cliffe/)
+* [Twitter](https://twitter.com/)
 * Twitter 280 characters
-* Elon Musk
+  * ["280 Characters is a Big Mistake for Twitter](https://signalgroupdc.com/280-characters-big-mistake-twitter/) by Garth Moore
+* [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
   * Going to Mars
 * A certain news channel
   * Fox News
@@ -32,7 +33,6 @@ aliases = ["/episode/0006.html"]
   * Evangelical
 * Superhero origin stories 
 * Evil doubles have beards
-* I am arguefighter
 * Homosexuality
   * Being kicked out of homes
 * Transgenerism (trans)
@@ -40,18 +40,20 @@ aliases = ["/episode/0006.html"]
 * Atheism
 
 # Genius Doesn't Excuse Offensive Opinions 
-* "What I Think We’re Talking About When We’re Talking About What We Can’t Talk
-  About" by Hunter Walk
-* Hollywood Sexual Assault cases
-  * Harvey Weinstein
-* Sam Altman's blogpost about racism
-* Sam Altman
-* yCombinator
-* SV as equalizer
+* ["What I Think We’re Talking About When We’re Talking About What We Can’t Talk
+  About"](https://hunterwalk.com/2017/12/14/what-i-think-were-talking-about-when-were-talking-about-what-we-cant-talk-about/) by Hunter Walk
+* Hollywood sexual assault situation
+  * ["Harvey Weinstein Paid Off Sexual Harassment Accusers for Decades"](https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html) by Jodi Kantor and Megan Twohey
+  * ["After Weinstein: 50 Men Accused of Sexual Misconduct and Their Fall From Power"](https://www.nytimes.com/interactive/2017/11/10/us/men-accused-sexual-misconduct-weinstein.html) by Sarah Almukhtar, Michael Gold, and Larry Buchanan
+* [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+  * [E Pur Si Muove](https://github.com/whiletruefm/whiletruefm.github.io) by Sam Altman
+  * ["A Clarification"](http://blog.samaltman.com/a-clarification) by Sam Altman
+* [Y Combinator](http://www.ycombinator.com/)
+* [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
+  * ["The unsettling truth about the tech sector’s meritocracy myth"](https://www.washingtonpost.com/news/in-theory/wp/2016/04/13/the-unsettling-truth-about-the-tech-sectors-meritocracy-myth/)
 * Twist: Dan was behind the quarters startup mentioned in 0004.
-* venture capital unicorn
-* Sam Altman's clarification
-* Tesla
+* [Unicorn, financial term](https://en.wikipedia.org/wiki/Unicorn_(finance))
+* [Tesla](https://www.tesla.com/)
 
 # Job Descriptions Reveal Corporate Opinions
 * Assist in Basketball
