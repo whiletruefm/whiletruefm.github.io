@@ -48,16 +48,122 @@ aliases = ["/episode/0006.html"]
 * Sam Altman
 * yCombinator
 * SV as equalizer
+* Twist: Dan was behind the quarters startup mentioned in 0004.
+* venture capital unicorn
+* Sam Altman's clarification
+* Tesla
 
 # Job Descriptions Reveal Corporate Opinions
-# Practical Typography Opinions
-* ....
+* Assist in Basketball
+* Layup in Basketball
+* touchdown from American football
+* textio
+* text analysis
+textio blog
+* textio blog post
+* amazon
+* "No One Mourns the Wicked"
+* Apple
+* Facebook
+* Google
+* Microsoft
+* Netflix
+* Salesforce
+* Slack
+* Twitter
+* Uber
+* Progressive, Diverse workplace
+* Dan got his Amazon internship before 0005~~~Not sure
+* Crying from laughing
+* Emerald City
+* Netflix company culture slide deck
+* Bulls by the horn
+* Weed out
+* Oregon
+* Oklahoma
+* Uber can't do anything not evil
+* Trent Kowalic, Tony Award winning performer
+* Travis Kalanic, founding CEO of Uber
+* Martin Shkreli
+* Wii Sports
+* Travis Kalanik's wii sports tourney
+* Travis Kalanik's sexist remarks
+  * dilly article 1
+  * dilly art 2
 
+# Practical Typography Opinions
+* duospaced font, article
+* *Practical Typography* by Matthew Butterick
+* iawriter
+* IA company
+* information architecture
+* User Experience (UX)
+* User Interface (UI) design
+* iOS
+* Macintosh (Mac)
+* Android
+* Markdown
+* nitti
+* typeface
+* typography
+* font
+* monospaced font
+* the font that replaced nitti
+* Helvetica
+* Arial
+* TNR
+* Github
+* VIM
+* Hack font
+* Dotted 0 vs Crossed 0
+* my fav typeface
+* FiraCode
+* Open Sans
+* Windows
+* Mac
+* GaramondMS
+* Section where Butterick reviews system fonts
+* butterick's opinions on ebooks
+* Butterick on ebook market
+PT framework
+Dyslexi
+* reddit
+* comic sans
+   * hate for comic sans is dumb
+* Microsoft Bob
+* Papyrus
+* Site feels like dyslexia
+* Dan has special eyes
+* We need first/last character to read
+   * article about it
+* *Typography for Lawyers* by Matthew Butterick
+* Read the Docs conference
+   * first year
+* Matthew Butterick's talk
+   * cfan you see Kenneth in crowd?
+* chapter on TNR in PT
+* Latin fonts
+* fonts are more than latin fonts
+* xhap on professional fonts in PT
+* Operator Mono
+* Gotham
+   * normal
+   * bold
+   * oblique
+   * pricing
+* san-serif
+* Microsoft
+  * Microsoft branding
+* Source Code Pro
+* Calibri forgery story
+* Calibri
+* Hoefller typefaces
+* What does a typeface designer do?
 * History of Helvetica/Grotesque Sans
   * Documentary
 * r/Typography
 * Typeface vectors
-Naked body typeface
+* Naked body typeface
 * custom draw typeface
 * The Average typeface
 
@@ -122,16 +228,40 @@ Naked body typeface
 * gcc
 * Environment variables
 * `go os`
+  * goose
 * `go arch`
-* goose
 * Discord bot
 * Python
 * Pseudocode
-* Javascript
-* Rust
-* Django
-* microframework
-* Rust
-* PHP
 
 # Opinion: Tools Should Love You
+* Python
+* JavaScript
+* Go
+* ReactJS
+* Django
+* microframework
+* I/O bottlenecking
+* Rust
+* PHP
+* Udemy
+* Irritating Go course
+  * "Go: The Complete Developer's Guide (Golang)" by Stephen Grider
+  * Kenneth has problems with the delivery of the course, but thinks the content
+    imparts an OK understanding of basic Go.
+* Kenneth highkey suspects teaching under the influence
+  * "Web Development w/ Google’s Go (golang) Programming Language" by 
+  * Checked out the preview videos, and he seems professional-ish in them.
+    Clearly keeps a number of bottles in his office, but what if they're
+    decorative? Iunno, and I'm not gonna buy a Udemy course. Come on now, be
+    real, y'all.
+Tenure
+YouTube
+GopherCon
+Rob Pike
+  * Example Talk
+  * Dan mispronounced Pike's name in 0005 and doesn't need to be salty.
+Complex Chemical manipulation chart
+sentdex
+  * Go Youtube tutorials
+
