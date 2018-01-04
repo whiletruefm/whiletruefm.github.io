@@ -5,7 +5,7 @@ description = "INSERT DESCRIPTION"
 number = 0006
 draft = true
 categories = ["episode"]
-audio_url = "ASDF"
+audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0006.m4a"
 aliases = ["/episode/0006.html"]
 +++
 
