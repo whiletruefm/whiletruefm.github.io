@@ -14,6 +14,7 @@ aliases = ["/episode/0006.html"]
 * [Nicole Cliff](http://the-toast.net/author/nicole-cliffe/)
 * [Twitter](https://twitter.com/)
 * Twitter 280 characters
+  * ["Giving you more characters to express yourself"](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html) by Aliza Rosen and Ikuhiro Ihara
   * ["280 Characters is a Big Mistake for Twitter](https://signalgroupdc.com/280-characters-big-mistake-twitter/) by Garth Moore
 * [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
   * Going to Mars
