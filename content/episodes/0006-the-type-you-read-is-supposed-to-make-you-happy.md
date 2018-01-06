@@ -1,6 +1,6 @@
 +++
 title = "The Type You Read is Supposed to Make You Happy"
-date = 2018-01-03T14:58:53-08:00
+date = 2017-12-22T14:58:53-08:00
 description =  "Why do we always feel forced to have opinions, and should we tolerate offensive ones from useful people? What makes typography so interesting, and why does Dilly value it so little? Tools love you, Prometheus monitoring ARM, and more"
 number = 0006
 draft = false
