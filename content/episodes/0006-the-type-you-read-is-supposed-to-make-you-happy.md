@@ -1,7 +1,7 @@
 +++
 title: "The Type You Read is Supposed to Make You Happy"
 date: 2018-01-03T14:58:53-08:00
-description = "INSERT DESCRIPTION"
+description = "Why do we always feel forced to have opinions, and should we tolerate offensive ones from useful people? What makes typography so interesting, and why does Dilly value it so little? Tools love you, Prometheus monitoring ARM, and more"
 number = 0006
 draft = true
 categories = ["episode"]
@@ -18,17 +18,18 @@ aliases = ["/episode/0006.html"]
   * ["280 Characters is a Big Mistake for Twitter](https://signalgroupdc.com/280-characters-big-mistake-twitter/) by Garth Moore
 * [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
   * Going to Mars
-* A certain news channel
+* "A certain news channel"
   * Fox News
 * Post-truth society
 * Sandwich
 * Tax reform
-* immigration
-* Impossible to be unbiased
+  * Recent changes in the United States
+* Immigration
+* "Impossible to be unbiased"
 * ReactJS
 * Kenneth taught for Treehouse
 * Pygame
-* pyinstaller
+* Pyinstaller
 * Conservative
 * Christianity
   * Evangelical
@@ -128,7 +129,7 @@ textio blog
 * Section where Butterick reviews system fonts
 * butterick's opinions on ebooks
 * Butterick on ebook market
-PT framework
+* PT framework
 Dyslexi
 * reddit
 * comic sans
@@ -258,13 +259,13 @@ Dyslexi
     Clearly keeps a number of bottles in his office, but what if they're
     decorative? Iunno, and I'm not gonna buy a Udemy course. Come on now, be
     real, y'all.
-Tenure
-YouTube
-GopherCon
-Rob Pike
+* Tenure
+* YouTube
+* GopherCon
+* Rob Pike
   * Example Talk
   * Dan mispronounced Pike's name in 0005 and doesn't need to be salty.
-Complex Chemical manipulation chart
-sentdex
+* Complex Chemical manipulation chart
+* sentdex
   * Go Youtube tutorials
 
