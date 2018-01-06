@@ -1,9 +1,9 @@
 +++
-title: "The Type You Read is Supposed to Make You Happy"
-date: 2018-01-03T14:58:53-08:00
-description = "Why do we always feel forced to have opinions, and should we tolerate offensive ones from useful people? What makes typography so interesting, and why does Dilly value it so little? Tools love you, Prometheus monitoring ARM, and more"
+title = "The Type You Read is Supposed to Make You Happy"
+date = 2018-01-03T14:58:53-08:00
+description =  "Why do we always feel forced to have opinions, and should we tolerate offensive ones from useful people? What makes typography so interesting, and why does Dilly value it so little? Tools love you, Prometheus monitoring ARM, and more"
 number = 0006
-draft = true
+draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0006.m4a"
 aliases = ["/episode/0006.html"]
