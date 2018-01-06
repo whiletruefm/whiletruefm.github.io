@@ -219,7 +219,9 @@ Dyslexi
 * GPU
 * Server
 * Circuit
-* Breaking news - fire in UCCS basement
+* Breaking news&mdash;fire in UCCS basement
+  * [Picture of the damage](/media/0006/0006-burned-computer-1.jpg)
+  * [Another picture](/media/0006/0006-burned-computer-2.jpg)
 * TitanX
 * Caffe2
   * Dilly's bug report
