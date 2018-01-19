@@ -90,6 +90,7 @@ explicit = "No"
 - [Anime girls](http://sailormoon.wikia.com/wiki/Sailor_Mercury)
 - [Myspace](https://en.wikipedia.org/wiki/Myspace)
   - ["WWW FAQs: How do I customize my myspace page?"](https://www.boutell.com/newfaq/sitespecific/myspacebackground.html) by Tom Boutell (2006)
+  - [MySpace CSS exploit](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 - [Bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system) (BBS)
 - [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities)
