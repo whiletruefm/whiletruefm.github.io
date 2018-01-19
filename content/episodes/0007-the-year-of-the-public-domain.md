@@ -97,7 +97,7 @@ explicit = "No"
 - YouTube themes
   - ["HOW TO: Customize Your YouTube Channel"](http://mashable.com/2009/08/02/customize-youtube-channel/#WiiJP9MkB5qI) by Jennifer Van Grove (2009)
 - It is possible to [exploit browsers with only HTML and CSS](https://security.stackexchange.com/questions/123733/browser-exploits-based-purely-on-html-css)
-  - [MySpace CSS exploit](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
+  - A 2005 Myspace CSS XSS worm is detailed in ["Cross-Site Scripting Worm Hits MySpace"](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/) by Nate Mook
 - Twitter customization
   - ["HOW TO: Create Custom Twitter Backgrounds"](http://mashable.com/2009/05/23/twitter-backgrounds/#tLLjKCmNBSqS) by Ben Parr (2009)
 - Neopets inspiring women
@@ -233,7 +233,7 @@ explicit = "No"
 - [Plymouth, England, UK](https://en.wikipedia.org/wiki/Plymouth)
 - [The Carolinas](https://en.wikipedia.org/wiki/The_Carolinas)
 - Beer saved the Pilgrims
-  - ["http://drinks.seriouseats.com/2012/11/beer-myths-corn-pilgrims-first-beer-thanksgiving-lager-prohibition-history.html"](http://drinks.seriouseats.com/2012/11/beer-myths-corn-pilgrims-first-beer-thanksgiving-lager-prohibition-history.html) by Lisa Grimm
+  - ["Beer Mythbusting: The Truth About Pilgrims, Adjuncts, and Prohibition"](http://drinks.seriouseats.com/2012/11/beer-myths-corn-pilgrims-first-beer-thanksgiving-lager-prohibition-history.html) by Lisa Grimm
 - [Egyptian pyramids](https://en.wikipedia.org/wiki/Egyptian_pyramids)
 - Pyramid builders paid in beer
   - ["Beer, Garlic Stoked Labor Of Pyramids"](http://articles.chicagotribune.com/1993-04-25/news/9304250206_1_tombs-zahi-hawass-great-pyramids)
