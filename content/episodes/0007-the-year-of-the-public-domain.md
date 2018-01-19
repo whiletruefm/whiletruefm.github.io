@@ -90,7 +90,6 @@ explicit = "No"
 - [Anime girls](http://sailormoon.wikia.com/wiki/Sailor_Mercury)
 - [Myspace](https://en.wikipedia.org/wiki/Myspace)
   - ["WWW FAQs: How do I customize my myspace page?"](https://www.boutell.com/newfaq/sitespecific/myspacebackground.html) by Tom Boutell (2006)
-  - [MySpace CSS exploit](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 - [Bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system) (BBS)
 - [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities)
@@ -98,6 +97,7 @@ explicit = "No"
 - YouTube themes
   - ["HOW TO: Customize Your YouTube Channel"](http://mashable.com/2009/08/02/customize-youtube-channel/#WiiJP9MkB5qI) by Jennifer Van Grove (2009)
 - It is possible to [exploit browsers with only HTML and CSS](https://security.stackexchange.com/questions/123733/browser-exploits-based-purely-on-html-css)
+  - [MySpace CSS exploit](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - Twitter customization
   - ["HOW TO: Create Custom Twitter Backgrounds"](http://mashable.com/2009/05/23/twitter-backgrounds/#tLLjKCmNBSqS) by Ben Parr (2009)
 - Neopets inspiring women
