@@ -97,6 +97,7 @@ explicit = "No"
 - YouTube themes
   - ["HOW TO: Customize Your YouTube Channel"](http://mashable.com/2009/08/02/customize-youtube-channel/#WiiJP9MkB5qI) by Jennifer Van Grove (2009)
 - It is possible to [exploit browsers with only HTML and CSS](https://security.stackexchange.com/questions/123733/browser-exploits-based-purely-on-html-css)
+  - [MySpace CSS exploit](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - Twitter customization
   - ["HOW TO: Create Custom Twitter Backgrounds"](http://mashable.com/2009/05/23/twitter-backgrounds/#tLLjKCmNBSqS) by Ben Parr (2009)
 - Neopets inspiring women
