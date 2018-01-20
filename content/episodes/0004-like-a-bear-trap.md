@@ -18,60 +18,43 @@ How each of the hosts spends a typical day
 ## Mike Overby
 * [Unemployment in the United States](https://en.wikipedia.org/wiki/Unemployment_in_the_United_States)
 * "I'd like to thank the Academy"
-* The Academy
+  - ["'I'd Like To Thank The Academy', But Who On Earth Are They?"](http://www.contactmusic.com/academy-of-motion-pictures-and-sciences/news/academy-awards-oscars-2014-who-are-they_4089524)
 * [Wookieepedia, the Star Wars wiki](starwars.wikia.com)
-* Darth Nihilus
+* [Darth Nihilus](http://starwars.wikia.com/wiki/Darth_Nihilus)
 * [Eggnog](https://en.wikipedia.org/wiki/Eggnog)
-  * Artisinal eggnog
-* Darigold
-  * Their eggnog
-* Lactaid
-  * their eggnog
-  * Lactose-free
-* Southern Comfort
-  * their eggnog
-  * flavors
-* Whole Foods
-  * Holiday Nog
-  * Flaxmilk
-* Python
-* Web programming
-* C#
-* Desktop programming
-* London, United Kingdom
-* Barcelona, Spain
-* Washington, D.C., USA
-* Seattle, Washington, USA
+* [Darigold](http://www.darigold.com)
+  * [Their eggnog](http://www.darigold.com/products/milk/egg-nog-half-gallon)
+* [Lactaid](https://www.lactaid.com)
+  * [Their eggnog](https://www.lactaid.com/products/lactaid-holiday-nog)
+  * [Lactose intolerance](https://en.wikipedia.org/wiki/Lactose_intolerance)
+* [Southern Comfort](https://www.southerncomfort.com)
+  * [Their eggnog](https://www.heb.com/product-detail/southern-comfort-traditional-egg-nog/655550)
+* [Whole Foods](https://www.wholefoodsmarket.com)
+  * [Flaxmilk-based Holiday Nog](https://www.refrigeratedfrozenfood.com/articles/93027-seasonal-egg-nog-made-with-flaxmilk)
+* [Python](https://python.org)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+* [London, England, UK](https://en.wikipedia.org/wiki/London)
+* [Barcelona, Spain](https://en.wikipedia.org/wiki/Barcelona)
+* [Washington, D.C., USA](https://en.wikipedia.org/wiki/Washington,_D.C.)
+* [Seattle, Washington, USA](https://en.wikipedia.org/wiki/Seattle)
 
 ## Daniel Lemmond
 * [*The Social Network*](https://en.wikipedia.org/wiki/The_Social_Network) by David Fincher
-  * Soundtrack by whomever
-* Trent Reznor
-* Nine Inch Nails
+  * [Soundtrack](https://en.wikipedia.org/wiki/The_Social_Network_(soundtrack)) by Trent Reznor and Atticus Ross
+* [Trent Reznor](https://en.wikipedia.org/wiki/Trent_Reznor)
+* [Nine Inch Nails](http://www.nin.com)
 * [Volentold](https://www.urbandictionary.com/define.php?term=Volentold)
-* UColorado research lab
-* Operating Systems
-* Supper Club
-  * Fish
-  * Curry
-  * Taco
-  * Pulled pork
-  * Shrimp linguine
+* [Supper Club](https://en.wikipedia.org/wiki/Dining_club)
 * Dan's internship story begins in 0001, and continues in 0002 and 0003.
-* Dan on Twitter
-* Ken on Twitter
-* Example of Ken destroying Dan
-* Amazon
-* Google
-* Boston, Massachusetts, USA
-* Facebook returning intern bonus
+* [Example of Ken destroying Dan](https://twitter.com/kennethlove/status/912154195087704064)
+* [Boston, Massachusetts, USA](https://en.wikipedia.org/wiki/Boston)
 * [Mark Zuckerburg](https://www.facebook.com/zuck)
-* "Welcome to Facebook" said by Zuck or the movie
 * [Russia](http://government.ru)
 * Facebook and Russia in the election
-* Dank memes
+  * ["Russia-backed Facebook posts 'reached 126m Americans' during US election"](https://www.theguardian.com/technology/2017/oct/30/facebook-russia-fake-accounts-126-million)
+* [Dank memes](https://www.reddit.com/r/dankmemes/)
 * By "Last episode," Dan means when Mike Overby coined "Alternative Pixels" in 0001.
-* Alternative facts
+* [Alternative facts](https://en.wikipedia.org/wiki/Alternative_facts)
 
 ## Kenneth Love
 * [Good Mythical Morning](https://www.mythical.co/shows-good-mythical-morning)
