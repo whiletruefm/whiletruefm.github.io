@@ -17,34 +17,32 @@ aliases = ["/episode/0006.html"]
   * ["Giving you more characters to express yourself"](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html) by Aliza Rosen and Ikuhiro Ihara
   * ["280 Characters is a Big Mistake for Twitter](https://signalgroupdc.com/280-characters-big-mistake-twitter/) by Garth Moore
 * [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
-  * Going to Mars
-* "A certain news channel"
-  * Fox News
-* Post-truth society
-* Sandwich
-* Tax reform
-  * Recent changes in the United States
-* Immigration
-* "Impossible to be unbiased"
-* ReactJS
-* Kenneth taught for Treehouse
-* Pygame
-* Pyinstaller
-* Conservative
-* Christianity
-  * Evangelical
-* Superhero origin stories 
-* Evil doubles have beards
-* Homosexuality
-  * Being kicked out of homes
-* Transgenerism (trans)
-* LGBTQ
-* Atheism
+  * [SpaceX Mars transportation infrastructure](https://en.wikipedia.org/wiki/SpaceX_Mars_transportation_infrastructure)
+* ["A certain news channel"](https://en.wikipedia.org/wiki/Fox_News_controversies)
+  * [Fox News](http://www.foxnews.com)
+* [Post-truth society](https://en.wikipedia.org/wiki/Post-truth_politics)
+* [Tax reform in the United States](https://en.wikipedia.org/wiki/Tax_reform#United_States)
+  * [Tax Cuts and Jobs Act of 2017](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017)
+* ["Impossible to be unbiased"](https://www.youtube.com/watch?v=roxzqaq0IMs)
+* [ReactJS](https://reactjs.org)
+* [Kenneth taught for Treehouse](https://teamtreehouse.com/kennethlove)
+* [Pygame](http://pygame.org/)
+* [Pyinstaller](http://www.pyinstaller.org)
+* [Conservative](https://en.wikipedia.org/wiki/Conservatism)
+* [Christianity](https://en.wikipedia.org/wiki/Christianity)
+  * [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
+* [Superhero origin stories](https://en.wikipedia.org/wiki/Origin_story)
+* [Evil doubles](http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTwin) have [beards](http://tvtropes.org/pmwiki/pmwiki.php/Main/BeardOfEvil)
+* [Homosexuality](https://en.wikipedia.org/wiki/Homosexuality)
+  * ["'When Mum found out I was gay, she changed the locks on our house'"](http://www.independent.co.uk/news/homelesshelpline/lgbt-gay-homophobia-homophobic-bullying-discrimination-homeless-helpline-centrepoint-when-mum-found-a7480431.html)
+* [Transgender](en.wikipedia.org/wiki/Transgender) (trans)
+* [LGBTQ](https://en.wikipedia.org/wiki/LGBT)
+* [Atheism](https://en.wikipedia.org/wiki/Atheism)
 
 # Genius Doesn't Excuse Offensive Opinions 
 * ["What I Think We’re Talking About When We’re Talking About What We Can’t Talk
   About"](https://hunterwalk.com/2017/12/14/what-i-think-were-talking-about-when-were-talking-about-what-we-cant-talk-about/) by Hunter Walk
-* Hollywood sexual assault situation
+* [Hollywood sexual assault situation](https://en.wikipedia.org/wiki/Weinstein_effect)
   * ["Harvey Weinstein Paid Off Sexual Harassment Accusers for Decades"](https://www.nytimes.com/2017/10/05/us/harvey-weinstein-harassment-allegations.html) by Jodi Kantor and Megan Twohey
   * ["After Weinstein: 50 Men Accused of Sexual Misconduct and Their Fall From Power"](https://www.nytimes.com/interactive/2017/11/10/us/men-accused-sexual-misconduct-weinstein.html) by Sarah Almukhtar, Michael Gold, and Larry Buchanan
 * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
@@ -58,42 +56,38 @@ aliases = ["/episode/0006.html"]
 * [Tesla](https://www.tesla.com/)
 
 # Job Descriptions Reveal Corporate Opinions
-* Assist in Basketball
-* Layup in Basketball
-* touchdown from American football
-* textio
-* text analysis
-textio blog
-* textio blog post
-* amazon
-* "No One Mourns the Wicked"
-* Apple
-* Facebook
-* Google
-* Microsoft
-* Netflix
-* Salesforce
-* Slack
-* Twitter
-* Uber
-* Progressive, Diverse workplace
-* Dan got his Amazon internship before 0005~~~Not sure
+* ["1000 different people, the same words"](https://textio.ai/1000-different-people-the-same-words-6149b5a1f351) by Kieran Snyder
+* [Assist in Basketball](https://en.wikipedia.org/wiki/Assist_(basketball))
+* [Layup in Basketball](https://en.wikipedia.org/wiki/Layup)
+* [Touchdown from American football](https://en.wikipedia.org/wiki/Touchdown)
+* [Textio](https://textio.com/)
+* [Text analysis](https://en.wikipedia.org/wiki/Text_mining)
+* [Textio blog](https://textio.ai)
+* ["No One Mourns the Wicked"](https://en.wikipedia.org/wiki/No_One_Mourns_the_Wicked)
+* [Salesforce](https://www.salesforce.com/)
+* [Slack](https://www.slack.com/)
+* Progressive, Diverse workplaces
+  * ["How Diversity Makes Us Smarter"](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
+* Dan got his Amazon internship before 0005
 * Crying from laughing
-* Emerald City
-* Netflix company culture slide deck
-* Bulls by the horn
-* Weed out
-* Oregon
-* Oklahoma
+  * ["Why do we cry when we laugh?"](https://sites.psu.edu/siowfa15/2015/09/14/why-do-we-cry-when-we-laugh/)
+* [Emerald City](https://en.wikipedia.org/wiki/Emerald_City)
+* [Netflix Culture Deck](https://www.slideshare.net/BarbaraGill3/netflix-culture-deck)
+* [Bulls by the horn](https://dictionary.cambridge.org/us/dictionary/english/take-the-bull-by-the-horns)
+* [Weed out]()
+* [Oregon, US](https://en.wikipedia.org/wiki/Oregon)
+* [Oklahoma, US](https://en.wikipedia.org/wiki/Oklahoma)
 * Uber can't do anything not evil
-* Trent Kowalic, Tony Award winning performer
-* Travis Kalanic, founding CEO of Uber
-* Martin Shkreli
-* Wii Sports
+  * ["David Bonderman Resigns From Uber Board After Sexist Remark"](David Bonderman Resigns From Uber Board After Sexist Remark)
+* [Trent Kowalic, Tony Award winning performer](https://en.wikipedia.org/wiki/Trent_Kowalik)
+* [Travis Kalanic, founding CEO of Uber](https://en.wikipedia.org/wiki/Travis_Kalanick)
+* [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli)
+* [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 * Travis Kalanik's wii sports tourney
+  * ["Was Uber’s CEO really the second-best Wii Sports tennis player?"](https://arstechnica.com/gaming/2017/04/was-ubers-ceo-really-the-second-best-wii-sports-tennis-player/)
+  * ["Was Uber CEO Travis Kalanick Really the 2nd Best 'Wii Tennis' Player in the World? An Investigation"](https://motherboard.vice.com/en_us/article/8qpke3/was-uber-ceo-travis-kalanick-really-the-2nd-best-wii-tennis-player-in-the-world-an-investigation)
 * Travis Kalanik's sexist remarks
-  * dilly article 1
-  * dilly art 2
+  * ["'We call that Boob-er:' The four most awful things Travis Kalanick said in his GQ profile"](https://pando.com/2014/02/27/we-call-that-boob-er-the-four-most-awful-things-travis-kalanick-said-in-his-gq-profile/)
 
 # Practical Typography Opinions
 * duospaced font, article
