@@ -90,43 +90,40 @@ aliases = ["/episode/0006.html"]
   * ["'We call that Boob-er:' The four most awful things Travis Kalanick said in his GQ profile"](https://pando.com/2014/02/27/we-call-that-boob-er-the-four-most-awful-things-travis-kalanick-said-in-his-gq-profile/)
 
 # Practical Typography Opinions
-* duospaced font, article
-* *Practical Typography* by Matthew Butterick
-* iawriter
-* IA company
-* information architecture
-* User Experience (UX)
-* User Interface (UI) design
-* iOS
-* Macintosh (Mac)
-* Android
-* Markdown
-* nitti
-* typeface
-* typography
-* font
-* monospaced font
-* the font that replaced nitti
-* Helvetica
-* Arial
-* TNR
-* Github
-* VIM
-* Hack font
-* Dotted 0 vs Crossed 0
-* my fav typeface
-* FiraCode
-* Open Sans
-* Windows
-* Mac
-* GaramondMS
+* ["In Search of the Perfect Writing Font"](https://ia.net/topics/in-search-of-the-perfect-writing-font/)
+* [*Practical Typography*](https://practicaltypography.com/) by Matthew Butterick
+* [iA Writer](https://ia.net/writer/)
+* [iA](https://ia.net/)
+* [Information architecture](https://en.wikipedia.org/wiki/Information_architecture)
+* [User Experience](https://en.wikipedia.org/wiki/User_experience) (UX)
+* [User Interface design](https://en.wikipedia.org/wiki/User_interface_design) (UI)
+* [Markdown](https://daringfireball.net/projects/markdown/)
+* Nitti
+  * Plex is the name of the duospaced font replacing Nitti
+* [Typography](https://en.wikipedia.org/wiki/Typography)
+* [Typeface](https://en.wikipedia.org/wiki/Typeface)
+* [Font](https://en.wikipedia.org/wiki/Font)
+  * ["What’s The Difference Between A Font And A Typeface?"](https://www.fastcodesign.com/3028971/whats-the-difference-between-a-font-and-a-typeface) by John Brownlee
+* [Helvetica](https://en.wikipedia.org/wiki/Helvetica)
+* [Arial](https://en.wikipedia.org/wiki/Arial)
+* [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman)
+* [Vim](http://www.vim.org/)
+* [Hack font](http://sourcefoundry.org/hack/)
+* [Crossed 0](https://en.wikipedia.org/wiki/Slashed_zero)
+* [Dotted 0](https://en.wikipedia.org/wiki/Slashed_zero#Dotted_zero)
+* Mike's favorite monospaced typeface
+  * [Input](http://input.fontbureau.com/)
+* [FiraCode](https://github.com/tonsky/FiraCode)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)
+* [Garamond](https://www.microsoft.com/typography/fonts/family.aspx?FID=28)
 * Section where Butterick reviews system fonts
-* butterick's opinions on ebooks
-* Butterick on ebook market
-* PT framework
-Dyslexi
-* reddit
-* comic sans
+  * ["System fonts"](https://practicaltypography.com/system-fonts.html) by Matthew Butterick
+* Butterick's opinions on ebooks
+  * ["Why There's No E-Book or PDF"](https://practicaltypography.com/why-theres-no-e-book-or-pdf.html)
+* *Practical Typography*'s publishing framework
+  * [Pollen](http://docs.racket-lang.org/pollen/)
+* Dyslexi
+* [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans)
    * hate for comic sans is dumb
 * Microsoft Bob
 * Papyrus
@@ -150,8 +147,8 @@ Dyslexi
    * oblique
    * pricing
 * san-serif
-* Microsoft
-  * Microsoft branding
+* Microsoft branding
+  * ["Microsoft visual identity guidelines"](https://ratnacahayarina.files.wordpress.com/2014/03/microsoft.pdf) via Microsoft
 * Source Code Pro
 * Calibri forgery story
 * Calibri
