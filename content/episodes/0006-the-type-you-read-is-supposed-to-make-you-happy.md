@@ -122,45 +122,38 @@ aliases = ["/episode/0006.html"]
   * ["Why There's No E-Book or PDF"](https://practicaltypography.com/why-theres-no-e-book-or-pdf.html)
 * *Practical Typography*'s publishing framework
   * [Pollen](http://docs.racket-lang.org/pollen/)
-* Dyslexi
+* [Dyslexie](https://www.dyslexiefont.com)
 * [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans)
-   * hate for comic sans is dumb
-* Microsoft Bob
-* Papyrus
+  * ["Hate Comic Sans? You don’t know anything about typography"](https://blog.prototypr.io/you-hate-comic-sans-you-dont-know-anything-about-typography-5133fbd4c8c4) by Thomas Payne
+* [Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
+* [Papyrus](https://en.wikipedia.org/wiki/Papyrus_(typeface))
 * Site feels like dyslexia
-* Dan has special eyes
-* We need first/last character to read
-   * article about it
-* *Typography for Lawyers* by Matthew Butterick
-* Read the Docs conference
-   * first year
-* Matthew Butterick's talk
-   * cfan you see Kenneth in crowd?
-* chapter on TNR in PT
-* Latin fonts
-* fonts are more than latin fonts
-* xhap on professional fonts in PT
-* Operator Mono
-* Gotham
-   * normal
-   * bold
-   * oblique
-   * pricing
-* san-serif
-* Microsoft branding
-  * ["Microsoft visual identity guidelines"](https://ratnacahayarina.files.wordpress.com/2014/03/microsoft.pdf) via Microsoft
-* Source Code Pro
-* Calibri forgery story
-* Calibri
-* Hoefller typefaces
+  * ["Dsxyliea"](http://geon.github.io/programming/2016/03/03/dsxyliea) by Victor Widell
+* Dan has [special eyes](https://www.youtube.com/watch?v=VeajNpTLgrY)
+* ["...it doesn't matter in what order the letters in a word are, the only important thing is that the first and last letter be at the right place...."](https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/) by Matt Davis
+* [*Typography for Lawyers*](https://typographyforlawyers.com/) by Matthew Butterick
+* ["How to Pay for this Book"](https://practicaltypography.com/how-to-pay-for-this-book.html) by Matthew Butterick
+  * ["The Economics of a Web-Based Book: Year One"](https://practicaltypography.com/economics-year-one.html) by Matthew Butterick
+* [Write the Docs](http://write-the-docs.readthedocs.io/), the Read the Docs conference
+  * [First year, 2013](http://conf.writethedocs.org/na/2013/)
+    * ["Typography for Docs"](https://www.youtube.com/watch?time_continue=1&v=8J6HuvosP0s) by Matthew Butterick
+* [Calibri](https://www.microsoft.com/typography/fonts/family.aspx?FID=287)
+* [Hoefler & Co.](https://www.typography.com/)
 * What does a typeface designer do?
+  * ["My life in typefaces"](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces)
 * History of Helvetica/Grotesque Sans
-  * Documentary
-* r/Typography
-* Typeface vectors
+  * ["The Birth of a Giant"](http://www.fontbureau.com/nhg/history/) via fontbureau
+  * [*Helvetica*](http://www.hustwit.com/category/helvetica/) by Gary Huswit (documentary Ken mentioned)
+* [r/Typography](https://www.reddit.com/r/typography/)
+* Typeface from vectors
+  * ["How to Create a Font in Adobe Illustrator"](https://design.tutsplus.com/tutorials/how-to-create-a-font-in-adobe-illustrator--cms-25921) by Mary Winkler
 * Naked body typeface
-* custom draw typeface
-* The Average typeface
+  * [Naked silhouette alphabet](https://www.designboom.com/art/naked-silhouette-alphabet-by-anastasia-mastrakouli/) by Anastasia Mastrakouli
+  * [Effing Typeface](https://www.behance.net/gallery/430218/Effing-Typeface) by Alex Merto
+* Create a typeface from your handwriting
+  * [Calligraphr](https://www.calligraphr.com/en/)
+* [Universal Typeface Experiment](https://en.wikipedia.org/wiki/Universal_Typeface_Experiment)
+  * The [Average font](https://fonts.google.com/specimen/Average) was something else.
 
 # Sam's Opinion of Prometheus
 * [Raspberry Pi](https://www.raspberrypi.org/)
