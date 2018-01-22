@@ -9,9 +9,7 @@ audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0005.m4
 aliases = ["/episode/0005.html"]
 +++
 
-# Shownotes
-
-## [Evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
+# [Evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
   - [Golang](https://golang.org/)
   - [Debugging](https://en.wikipedia.org/wiki/Debugging)
   - [Google SRE](https://landing.google.com/sre/)
@@ -41,7 +39,7 @@ aliases = ["/episode/0005.html"]
   - [Allocate out of bounds](https://en.wikipedia.org/wiki/Bounds_checking)
   - [Off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error)
 
-## [New DeepMind paper (Alpha Zero)](https://deepmind.com/blog/alphago-zero-learning-scratch/)
+# [New DeepMind paper (Alpha Zero)](https://deepmind.com/blog/alphago-zero-learning-scratch/)
   - [DeepMind](https://deepmind.com)
   - [Google](http://google.com)
   - [Chess](https://en.wikipedia.org/wiki/Chess)
@@ -78,7 +76,7 @@ aliases = ["/episode/0005.html"]
   - [Rob Pike (not Ken Pike, Dan)](https://en.wikipedia.org/wiki/Rob_Pike)
   - [Swift language](https://developer.apple.com/swift/)
 
-## [iPhone X](https://en.wikipedia.org/wiki/IPhone_X) and [Amazon Alexa](https://en.wikipedia.org/wiki/Amazon_Alexa)
+# [iPhone X](https://en.wikipedia.org/wiki/IPhone_X) and [Amazon Alexa](https://en.wikipedia.org/wiki/Amazon_Alexa)
   - [The Notch](https://en.wikipedia.org/wiki/IPhone_X#Sensor_"notch"_at_the_top_of_the_screen)
   - [Animojis](https://en.wikipedia.org/wiki/Emoji#Apple)
   - [FaceID](https://en.wikipedia.org/wiki/Face_ID)
@@ -100,7 +98,7 @@ aliases = ["/episode/0005.html"]
   - [Google Home](https://en.wikipedia.org/wiki/Google_Home)
   - [Google Assistant](https://en.wikipedia.org/wiki/Google_Assistant)
 
-## [Infosec and the Maori](http://www.taiuru.maori.nz/wp-content/uploads/InfoSecMaori.pdf)
+# [Infosec and the Maori](http://www.taiuru.maori.nz/wp-content/uploads/InfoSecMaori.pdf)
   - [Infosec](https://en.wikipedia.org/wiki/Information_security)
   - [Maori](https://en.wikipedia.org/wiki/M%C4%81ori_people)
   - [Polynesian](https://en.wikipedia.org/wiki/Polynesia)
@@ -111,7 +109,7 @@ aliases = ["/episode/0005.html"]
   - [Seventh Day Adventists](https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church)
   - [Jehova’s Witnesses not accepting blood transfusions](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_and_blood_transfusions)
 
-## [DNR tattoo](http://www.nejm.org/doi/full/10.1056/NEJMc1713344#t=article)
+# [DNR tattoo](http://www.nejm.org/doi/full/10.1056/NEJMc1713344#t=article)
   - [Do Not Resuccitate](https://en.wikipedia.org/wiki/Do_not_resuscitate)
   - [Emergency room](https://en.wikipedia.org/wiki/Emergency_department)
   - [In-joke](https://en.wikipedia.org/wiki/In-joke)
@@ -129,7 +127,7 @@ aliases = ["/episode/0005.html"]
   - [X-ray](https://en.wikipedia.org/wiki/X-ray)
   - [Micro-optimisation](https://en.wiktionary.org/wiki/micro-optimization)
 
-## [Static-site generation](https://wiki.python.org/moin/StaticSiteGenerator)
+# [Static-site generation](https://wiki.python.org/moin/StaticSiteGenerator)
   - [Hugo](https://gohugo.io/)
   - [Jekyll](https://jekyllrb.com/)
   - [HTML templating](https://en.wikipedia.org/wiki/Comparison_of_web_template_engines)
@@ -150,7 +148,7 @@ aliases = ["/episode/0005.html"]
   - [Attack vector](https://en.wikipedia.org/wiki/Vector_(malware))
   - [Operating system processes](https://en.wikipedia.org/wiki/Process_(computing))
 
-## Feedback
+# Feedback
   - [Solarized light / dark](http://ethanschoonover.com/solarized)
   - [Form to submit topic ideas](http://whiletrue.fm/ideas/)
   - [Shilling](https://en.wikipedia.org/wiki/Shill)
@@ -158,6 +156,6 @@ aliases = ["/episode/0005.html"]
   - [Casper](https://casper.com/uk/en/mattresses/)
   - [ProgDisc](http://progdisc.club)
 
-## Errata
+# Errata
   - [Simba](https://simbasleep.com/)
   - [Purple](https://purple.com/)
