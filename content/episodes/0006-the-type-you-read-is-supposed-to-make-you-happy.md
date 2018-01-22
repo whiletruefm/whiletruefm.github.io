@@ -163,102 +163,96 @@ aliases = ["/episode/0006.html"]
 * The Average typeface
 
 # Sam's Opinion of Prometheus
-* Raspberry Pi
-* Go
+* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Go](https://golang.org/)
 * Crosscompiling with Go
-* Prometheus
-* Grafana
-* Node exporter
-* soundcloud
-* Google
+  * ["Recipe: Cross Compiling"](http://golangcookbook.com/chapters/running/cross-compiling/) from *The Go Cookbook*
+* [Prometheus](https://prometheus.io/)
+* [Grafana](https://grafana.com/)
+* [Node exporter](https://github.com/prometheus/node_exporter)
+* [Soundcloud](https://soundcloud.com/)
 * Runtime blog post in 0005
-* Jockey
-* Horse
-* ARM64
-* Intel
-* x86
-* x64
-* RAM
-* Grunt
-* PhantomJS
-* Daemon
-* CPU load
-* network load
-* disk load
-* core load
-* uptime
-* router
-  * rooter, australian slang
-    * Australia
-* ddwrt
-* Kernel
-* Segmentation Fault (SEGFAULT)
-* ARM7
-* 26 branch
-* RPi3
-* RPi1
-* SD card
-* fdisk
-* VFAT
-* boot partition
-* super block
-* NST4
-* bad block scans
-* heatgun
-* Cacti monitoring
-* sysadmin
-* GPU
-* Server
-* Circuit
+* [Jockey](https://en.wikipedia.org/wiki/Jockey)
+* [Horse](https://en.wikipedia.org/wiki/Horse)
+* [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
+* [Intel](https://www.intel.com)
+* [x86](https://en.wikipedia.org/wiki/X86)
+* [x64](https://en.wikipedia.org/wiki/X86-64)
+* [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
+* [Grunt](https://gruntjs.com/)
+* [PhantomJS](http://phantomjs.org/)
+* [Daemon](https://en.wikipedia.org/wiki/Daemon_(computing))
+* [CPU load](https://en.wikipedia.org/wiki/Load_(computing))
+* [Network load](https://en.wikipedia.org/wiki/Network_Load_Balancing)
+* [Disk utilization](https://www.ibm.com/support/knowledgecenter/en/SSGU8G_12.1.0/com.ibm.perf.doc/ids_prf_056.htm)
+* [Core utilization](https://www.techopedia.com/definition/28291/cpu-utilization)
+* [Uptime](https://en.wikipedia.org/wiki/Uptime)
+* [Router](https://en.wikipedia.org/wiki/Router_(computing))
+  * [Rooter, australian slang](http://www.slang-dictionary.org/Australian-Slang/Rooter)
+    * [Australia](https://en.wikipedia.org/wiki/Australia)
+  * ["What’s the difference between a router and a rooter?"](http://ozwords.org/?p=73)
+* [dd-wrt](https://www.dd-wrt.com/site/index)
+* [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
+* [Segmentation Fault](https://en.wikipedia.org/wiki/Segmentation_fault) (SEGFAULT)
+* [ARM7](https://en.wikipedia.org/wiki/ARM7)
+* [Raspberry Pi 3](ahttps://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+* [Raspberry Pi 1](https://www.raspberrypi.org/products/raspberry-pi-1-model/)
+* [SD card](https://en.wikipedia.org/wiki/Secure_Digital)
+* [fdisk](https://en.wikipedia.org/wiki/Fdisk)
+* [vfat](https://en.wikipedia.org/wiki/FAT_filesystem_and_Linux#vfat)
+* [Boot partition](https://en.wikipedia.org/wiki/System_partition_and_boot_partition)
+* [Super block](http://www.linfo.org/superblock)
+* [Bad block scans](https://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/)
+* [Heat gun](https://en.wikipedia.org/wiki/Heat_gun)
+* [Cacti monitoring](https://www.cacti.net)
+* [sysadmin](https://en.wikipedia.org/wiki/System_administrator)
+* [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+* [Server](https://en.wikipedia.org/wiki/Server_(computing))
+* [Circuit](https://en.wikipedia.org/wiki/Electrical_network)
 * Breaking news&mdash;fire in UCCS basement
   * [Picture of the damage](/media/0006/0006-burned-computer-1.jpg)
   * [Another picture](/media/0006/0006-burned-computer-2.jpg)
-* TitanX
-* Caffe2
-  * Dilly's bug report
-* How to file good bugs
-* Ignition Point
-* Java
-  * Java's platform agnosticism
-* Docker
-* Container
-* gcc
-* Environment variables
-* `go os`
-  * goose
-* `go arch`
-* Discord bot
-* Python
-* Pseudocode
+* [TitanX](https://www.nvidia.com/en-us/geforce/products/10series/titan-x-pascal/)
+* [Caffe2](https://caffe2.ai/)
+  * Apparently, the person who said they would write a bug report was a troll.
+* [How to file good bugs](https://developers.google.com/web/feedback/file-a-bug)
+* [Ignition Point](https://en.wikipedia.org/wiki/Autoignition_temperature)
+* [Java](https://www.java.com/en/)
+* [Docker](http://docker.io/)
+* [Container](https://en.wikipedia.org/wiki/Container_(abstract_data_type))
+* [gcc](https://gcc.gnu.org/)
+* [Environment variables](https://en.wikipedia.org/wiki/Environment_variable)
+* `GOOS` and `GOARCH`
+  * ["Optional environment variables"](https://golang.org/doc/install/source#environment) via Golang documentation
+  * [Goose](https://en.wikipedia.org/wiki/Goose)
+* [Python](https://www.python.org)
+* [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
 
 # Opinion: Tools Should Love You
-* Python
-* JavaScript
-* Go
-* ReactJS
-* Django
-* microframework
-* I/O bottlenecking
-* Rust
-* PHP
-* Udemy
+* [Python](https://www.python.org)
+* [JavaScript](https://www.javascript.com/)
+* [Go](https://golang.org/)
+* [ReactJS](https://reactjs.org/)
+* [Django](https://www.djangoproject.com/)
+* [Microframework](https://en.wikipedia.org/wiki/Microframework)
+* [I/O bottlenecks](https://www.techopedia.com/definition/30479/io-bottleneck) via techopedia
+* [Rust](https://www.rust-lang.org/en-US/)
+* [PHP](http://www.php.net/)
+* [Udemy](https://www.udemy.com/)
 * Irritating Go course
-  * "Go: The Complete Developer's Guide (Golang)" by Stephen Grider
+  * ["Go: The Complete Developer's Guide (Golang)"](https://www.udemy.com/go-the-complete-developers-guide/learn/v4/) by Stephen Grider
   * Kenneth has problems with the delivery of the course, but thinks the content
     imparts an OK understanding of basic Go.
-* Kenneth highkey suspects teaching under the influence
-  * "Web Development w/ Google’s Go (golang) Programming Language" by 
+* Kenneth lowkey suspects teaching under the influence
+  * ["Web Development w/ Google’s Go (golang) Programming Language"](https://www.udemy.com/go-programming-language/learn/v4/) by Todd McLeod
   * Checked out the preview videos, and he seems professional-ish in them.
     Clearly keeps a number of bottles in his office, but what if they're
     decorative? Iunno, and I'm not gonna buy a Udemy course. Come on now, be
     real, y'all.
-* Tenure
-* YouTube
-* GopherCon
-* Rob Pike
-  * Example Talk
+* [Academic tenure](https://en.wikipedia.org/wiki/Academic_tenure)
+* [GopherCon](https://www.gophercon.com/)
+* [Rob Pike](http://herpolhode.com/rob/)
+  * ["The Go Programming Language"](https://www.youtube.com/watch?v=rKnDgT73v8s), a talk by Rob Pike
   * Dan mispronounced Pike's name in 0005 and doesn't need to be salty.
-* Complex Chemical manipulation chart
-* sentdex
-  * Go Youtube tutorials
-
+* [sentdex](https://www.youtube.com/user/sentdex)
+  * [*Go Language Programming Practical Basics Tutorial*](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX) by sentdex
