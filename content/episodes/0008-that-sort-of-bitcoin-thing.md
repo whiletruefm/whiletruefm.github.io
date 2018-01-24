@@ -102,4 +102,59 @@ Take a bite out of crime
 Smart outlet
 
 # Journals
+Tweet that inspired this
 Blackboard
+field notes
+    dilly's pick
+leather journal
+    dilly's pick
+    mike's
+Logbook
+Personal goals
+Spain
+Una Kravits
+@Una on Github
+Minecraft
+Zork
+Sticky notes
+CS:GO
+    The major
+git gud
+Matlab
+size_t
+int pointers
+What library was Dan using?
+You have to purchase matlab
+Moleskine
+Mike also wants to credit all the teachers who forced him to journal his thoughts in class. Those sessions meant more later on.
+Uniball Signo 307
+Code and Quill
+    Monolith
+ASMR
+ASMR pen guy
+fountain pens
+Parker pens
+frission
+Jenny Nicholson
+    Top 10 reasons won't do ASMR
+Star Wars
+My Little Pony
+Episodes 0001-0007 took place in 2017.
+Èccolo
+    They seem to have discontinued Mike's journal, and none of the journals he could find on their website were as expensive as this one was when it released, so maybe they've changed strategies.
+
+# Bitcoin is Stupid
+"Bitcoin is Stupid" by Mr. Money Mustache
+Mr. Money Mustache
+    zero to hero
+    shockingly simple retirement
+    popular list
+    Endorsed by Dan Lemmond's mom
+Dave Ramsey
+Bitcoin
+Programming Discussions (progdisc), our beloved Discord programming community
+Pyramid scheme
+Blockchain
+Etherium
+Cryptocurrencies
+Smart Contract
