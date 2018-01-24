@@ -1,5 +1,5 @@
 +++
-title = "0008 The Whole Bitcoin Thing"
+title = "That Sort of Bitcoin Thing"
 description = ""
 number = "0000"
 date = 2018-01-22T14:13:22-08:00
@@ -100,3 +100,6 @@ Apple Home Pod
     Missed their ship date
 Take a bite out of crime
 Smart outlet
+
+# Journals
+Blackboard
