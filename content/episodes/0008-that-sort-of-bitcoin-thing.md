@@ -155,6 +155,61 @@ Bitcoin
 Programming Discussions (progdisc), our beloved Discord programming community
 Pyramid scheme
 Blockchain
+    how it works video
 Etherium
 Cryptocurrencies
 Smart Contract
+M of N contract?
+escrow
+Bitcoin as the world currency
+    article
+Nintendo
+Nintendo's point systems are garbage
+    all premium currency in games are garbage
+    now they want to have you preorder a gaming cryptocurrency as premium currency
+    https://www.youtube.com/watch?v=kmISqCpO8RE
+Cryptocurrency for gamers
+Bitcoin One
+When will Bitcoin stop being mineable?
+Fractional reserve banking
+Gold Standard
+    America off Gold Standard
+Great Depression
+debt
+    creating new revenue through debt
+the world runs on debt
+germany is not debt
+OPEC
+USA owes China, China owes USA
+US national debt
+UK national debt
+Europe designs itself to be in debt. No more wars.
+Mutually Assured Destruction (MAD)
+article by David Webb
+    Reading plugin
+article by Preston Bern
+Bitcoin energy consumption
+hashing function
+proof of work
+proof of stake
+People buying up GPUs so much is a problem
+    nvidia: don't sell to bitcoin miners article
+NVIDIA
+Think of the children
+digiconomist bitcoin energy
+Kodak
+Kodak bitcoin miner
+Bananacoin
+Peru
+Dot com boom
+    Dreaming in Code
+Sharecropping
+The article from sam about bad practice in bitcoin
+    wash trades
+    spoofing
+    painting the tape
+    frontrunning
+    insider trading
+Attempts from ctypto to redo regulations
+150-1000 techcrunch article
+Journal of Monetary Economics
