@@ -1,6 +1,6 @@
 +++
 title = "The Bitcoin Thing"
-description = ""
+description = "Bitcoin was on the rise again when we recorded this, and now it's on the crash again. We discuss what it is and our skepticism of cryptocurrencies' place in our financial system. Also, computer latency, smart homes, our journaling habits (or lack thereof), shoutouts to Games Done Quick, and more!"
 number = "0008"
 date = 2018-01-20T14:13:22-08:00
 draft = false
