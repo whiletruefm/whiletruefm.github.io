@@ -12,71 +12,69 @@ explicit = "No"
 +++
 
 # Handheld latency
-- Ken's article
-- Dan Luu
-- apple iie
-- commodore pet 4016
-- thinkpad
-- mbp
-- kindle
-- pixel2
-- iphone
-- blackberry 
+- ["Computer latency: 1977-2017"](https://danluu.com/input-lag/) by Dan Luu
+- [Apple IIe](https://en.wikipedia.org/wiki/Apple_IIe)
+- [Commodore PET 4016](https://en.wikipedia.org/wiki/Commodore_PET)
+- [ThinkPad](https://en.wikipedia.org/wiki/ThinkPad)
+- [Mac Book Pro](https://www.apple.com/macbook-pro/)
+- [Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle)
+- [Pixel 2](https://store.google.com/us/product/pixel_2?hl=en-US)
+- [iPhone](https://www.apple.com/iphone/)
+- [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry)
 - [Symbolics 3620](https://en.wikipedia.org/wiki/Symbolics#The_3600_series)
-- ios
-- android
-- game boy color
-- Dan Luu's Keyboard article
-- Dan Luu's Human input article
+- [Game Boy Color](https://en.wikipedia.org/wiki/Game_Boy_Color)
+- ["Keyboard Latency"](https://danluu.com/keyboard-latency/) by Dan Luu
+- ["Is the keyboard faster than the mouse?"](https://danluu.com/keyboard-v-mouse/) by Dan Luu
 
 # Speedruns
-- awesome games done quick
-- pokemon
-- supernintendo
-- Pokemon plays Twitch
-- prevent cancer foundation
-- skyrim speedrun
+- [Games Done Quick](https://gamesdonequick.com)
+- [Pokèmon](https://www.pokemon.com/us/)
+- [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
+- ["Pokémon plays Twitch: How a robot got IRC running on an unmodified SNES"](https://arstechnica.com/gaming/2015/01/pokemon-plays-twitch-how-a-robot-got-irc-running-on-an-unmodified-snes/)
+- [Prevent Cancer Foundation](https://preventcancer.org)
+- [*The Elder Scrolls V: Skyrim*](https://elderscrolls.bethesda.net/en/skyrim)
+  - speedrun
   - glitches
-- doom 2016 speedrun
+- [*Doom 2016*](https://doom.com/en-us/)
+  - speedrun
   - glitches
-- supermario 64
+- [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
   - glitches
   - jump ass first, win any%
-- ocarina of time n64
+- [*The Legend of Zelda: Ocarina of Time*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
   - glitches
   - glitch where rooms do not load and you are blind
-- oot 3ds
+- [*The Legend of Zelda: Ocarina of Time 3D*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_3D)
   - glitches
-- grezzo
-- diablo 2
+- [Grezzo](http://www.grezzo.co.jp/en/)
+- [Diablo II](http://us.blizzard.com/en-us/games/d2/)
   - speedrun strats
-- blindfolded zelda win
+- blindfolded Zelda win
   - stuck in water
   - runnerguywhatever. it's in #recordingstudio
-- Portal 2
+- [Portal 2](http://www.thinkwithportals.com)
   - speedrun of coop
-- GLaDOS
-  - All her cues from coop
+- [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS)
+  - [GlaDOS's *Portal 2* Co-Op cues](https://www.youtube.com/watch?v=bRdjVCrVYSM)
 
 # Amazon Kindle
-- Dan's Amazon internship continues from 0007
-- Kindle Oasis 2
-- e-ink display
-- kindles' extreme battery life
-- mike sits here turning pages in his physical books in literally less than half a second.
-- recurse center
-  - community guidelines
-  - about page
-- progdisc
-- Julia Evans
-  - B0rk on Twitter
+- Dan's Amazon internship storyline continues from 0007
+- [Kindle Oasis 2](https://en.wikipedia.org/wiki/Amazon_Kindle#Kindle_Oasis_(2nd_generation))
+- [E Ink](http://www.eink.com/electronic-ink.html)
+- Meanwhile, Mike sits here turning pages in his physical books in literally less than half a second.
+- [Recurse Center](https://www.recurse.com)
+  - [Code of conduct](https://www.recurse.com/code-of-conduct)
+  - [About page](https://www.recurse.com/about)
+- [Programming Discussions]() (ProgDisc)
+- [Julia Evans](https://jvns.ca)
+  - [@B0rk on Twitter](https://twitter.com/b0rk)
   - [Julia Evans's writing on Hacker School](https://jvns.ca/categories/hackerschool/)
-  - Her zines
-- Rust
+  - [Her zines](https://jvns.ca/zines/)
+- [Rust](https://www.rust-lang.org/en-US/)
   - [Julia Evans's writing on Rust](https://jvns.ca/categories/rust/)
-- Ruby
-- Python
-- Pycon
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Python](https://python.org)
+- [Pycon](https://pycon.org)
 
 # Smart Homes
 - Article on Charge on Apple losing ground to Google
@@ -104,9 +102,9 @@ explicit = "No"
 # Journals
 - Tweet that inspired this
 - Blackboard
-- field notes
+- Field notes
   - dilly's pick
-- leather journal
+- Leather journal
   - dilly's pick
   - mike's
 - Logbook
@@ -121,10 +119,10 @@ explicit = "No"
   - The major
 - git gud
 - Matlab
-- size_t
-- int pointers
+- `size_t`
+- `int` pointers
 - What library was Dan using?
-- You have to purchase matlab
+- You have to purchase Matlab
 - Moleskine
 - Mike also wants to credit all the teachers who forced him to journal his thoughts in class. Those sessions meant more later on.
 - Uniball Signo 307
