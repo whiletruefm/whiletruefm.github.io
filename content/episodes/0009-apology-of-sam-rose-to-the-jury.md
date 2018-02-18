@@ -1,10 +1,6 @@
 +++
 title = "Apology of Sam Rose to the Jury"
-description = "Among the reminisces of Lord Sam Rose, none, as it seems to me,
-is more deserving of record than the council he took with whiletruefm, not only
-with regards to Chris Down changing his mind on swap, but also as to the United
-Kingdom's Maths Balls decision, Dan's interest in DeepFakes, the great failure
-of *Minecraft*, and so much more that has touched upon the lofty philosopher."
+description = "Among the reminisces of Lord Sam Rose, none, as it seems to me, is more deserving of record than the council he took with whiletruefm, not only with regards to Chris Down changing his mind on swap, but also as to the United Kingdom's Maths Balls decision, Dan's interest in DeepFakes, the great failure of *Minecraft*, and so much more that has touched upon the lofty philosopher."
 number = "0009"
 date = 2018-02-04T17:27:03-08:00
 draft = false
