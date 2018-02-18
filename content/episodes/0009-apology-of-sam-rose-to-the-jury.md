@@ -129,7 +129,7 @@ explicit = "No"
 
 # Alpha Go and Machine Learning
 * [*AlphaGo*](https://www.alphagomovie.com) by Greg Kohl
-  * "I've only watched it twice. I will have to watch it a third time, but it's OK." &mdash; Daniel "dilly" Lemmond, 2017
+  * "I've only watched it twice. I will have to watch it a third time, but it's OK." &mdash; Daniel "dilly" Lemmond, 2018
   * [Mike's thoughts](https://letterboxd.com/lethargilistic/film/alphago/)
 * [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)
 * [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol)
@@ -147,7 +147,7 @@ explicit = "No"
 * [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)
 * [Stripe](https://stripe.com)
 * [*An Introduction to Statistical Learning with Applications in R*](http://www-bcf.usc.edu/~gareth/ISL/) (ISLR)
-  * "It's only, like, 400 pages" &mdash; Daniel "dilly" Lemmond, 2017
+  * "It's only, like, 400 pages" &mdash; Daniel "dilly" Lemmond, 2018
 * [R programming language](https://www.r-project.org)
 * [*The Elements of Statistical Learning*](https://web.stanford.edu/~hastie/ElemStatLearn/) (ESL)
 * [*Deep Learning*](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
