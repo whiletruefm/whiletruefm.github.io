@@ -115,18 +115,17 @@ explicit = "No"
 * [*Nioh*](https://en.wikipedia.org/wiki/Nioh)
 * [*The Witness*](http://the-witness.net)
 * [*Subnautica*](https://unknownworlds.com/subnautica/)
-* *Journey*
-* *Horizon: Zero Dawn*
-* *Black Desert Online*
-* *Rimworld*
-* *Civilization* series
-* *Stellaris*
-* *EVE Online*
-* *Elite Dangerous*
-* *Mario Odyssey*
-* *Mortal Kombat*
-  * Removed tutorial in newest version
-* *Street Fighter*
+* [*Journey*](http://thatgamecompany.com/#games/journey/)
+* [*Horizon: Zero Dawn*](https://www.guerrilla-games.com/play/horizon)
+* [*Black Desert Online*](https://www.blackdesertonline.com)
+* [*RimWorld*](https://rimworldgame.com)
+* [*Civilization* series](https://civilization.com)
+* [*Stellaris*](http://www.stellarisgame.com/)
+* [*EVE Online*](http://www.eveonline.com/)
+* [*Elite Dangerous*](https://www.elitedangerous.com)
+* [*Super Mario Odyssey*](https://en.wikipedia.org/wiki/Super_Mario_Odyssey)
+* [*Mortal Kombat*](http://www.mortalkombat.com)
+* [*Street Fighter*](https://streetfighter.com)
 
 # Alpha Go and Machine Learning
 * [*AlphaGo*](https://www.alphagomovie.com) by Greg Kohl
