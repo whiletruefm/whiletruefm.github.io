@@ -11,11 +11,11 @@ audio_length = "00:00"
 explicit = "No"
 +++
 
-#Guest: Luke Williams
+# Guest: Luke Williams
 - Bio
 - Website
 
-#Front End WebDev (pre-2003)
+# Front End WebDev (pre-2003)
 - HTML
 - CSS
 - JavaScript
@@ -24,7 +24,7 @@ explicit = "No"
 - Shockwave
 - Java Applets
 
-#Firebug and Debugging
+# Firebug and Debugging
 - Firebug
   - EOL
 - Developer Console
@@ -128,10 +128,11 @@ explicit = "No"
   - Acceptable Ads
 
 # The Web Is Still Not Crap in 2018
-* ReactJS
-* Emberjs
-* Angular
-* State
+- ReactJS
+- Emberjs
+- Angular
+- State
+  - State tree
 - data binding
 - html templates
 - embedded templates
@@ -141,8 +142,6 @@ explicit = "No"
 - Vuejs
 - Redux in React
 - Event driven architecture in front end
-- State
-  - State tree
 - Shadow DOM
 - Data pipelines
 - Select dropdown
