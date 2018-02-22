@@ -19,7 +19,8 @@ explicit = "No"
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [Browser incompatibilities](https://www.keycdn.com/blog/browser-compatibility-testing-tools/)
+- Browser incompatibilities
+  - ["Top 12 Browser Compatibility Testing Tools"](https://www.keycdn.com/blog/browser-compatibility-testing-tools/)
 - [Flash](https://en.wikipedia.org/wiki/Adobe_Flash)
 - [Shockwave](https://en.wikipedia.org/wiki/Adobe_Shockwave)
 - [Java Applets](https://en.wikipedia.org/wiki/Java_applet#Embedding_into_a_web_page)
@@ -35,26 +36,26 @@ explicit = "No"
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 # Browser incompatibility
-- [Browserstack, debugging tool](https://www.browserstack.com/)
+- [Browserstack](https://www.browserstack.com/)
 - Partition
 - [Internet Explorer 8 doesn't support indexOf](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
-  - Does Edge support it? - Yes, see above.
+  - "Does Edge support it?"&mdash;Yes, see above.
 - [IE6](https://en.wikipedia.org/wiki/Internet_Explorer_6)
   - [IE5.5 for Mac](https://en.wikipedia.org/wiki/Internet_Explorer_5#Apple_Macintosh)
 - [CSS Spec 1](https://www.w3.org/TR/CSS1/)
 - [CSS Spec 2](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
 - [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/)
-- [CSS hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
-- [CSS focus](https://developer.mozilla.org/en-US/docs/Web/CSS/%3Afocus)
+- [CSS `hover`](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+- [CSS `focus`](https://developer.mozilla.org/en-US/docs/Web/CSS/%3Afocus)
 - Rounded corners on the internet
-  - [early instance of using CSS](https://css-tricks.com/snippets/css/rounded-corners/)
+  - [Early instance of using CSS](https://css-tricks.com/snippets/css/rounded-corners/)
 - [`div`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 - [`span`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-- [html italics](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
+- [HTML italics](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
 - [Dan Cederholm](http://simplebits.com/)
-- [Command and Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer)
-  - [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)
-  - [Red Alert 2](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert_2)
+- [*Command and Conquer*](https://en.wikipedia.org/wiki/Command_%26_Conquer)
+  - [*Red Alert*](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)
+  - [*Red Alert 2*](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert_2)
   - [in the browser](https://www.adityaravishankar.com/projects/games/command-and-conquer/)
 - Dan was born on an island called xxxxxxxx
   - Hawaii
@@ -63,28 +64,28 @@ explicit = "No"
 - [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
   - [Smaller than the average webpage](https://www.wired.com/2016/04/average-webpage-now-size-original-doom/)
 - Origin
-- 
 
 # Supporting legacy browsers in 2018
 - [IE6 officially unsupported](https://mashable.com/2011/03/04/ie6-countdown/#LGniMSz7t8q7)
 - IE promised lifetime support
   - Went to court over promising this?
-- Banks use IE.
-- China uses IE6. 40% of traffic? 
-  - Note From Luke - I was wrong. Around 2011 40% of all IE6 users were in China rather than 40% of population. It looks like it [has drastically improved since then](http://gs.statcounter.com/browser-market-share/all/china).
+- Banks using IE
+- China using IE6
+  - Note From Luke&mdash;I was wrong. Around 2011, 40% of *all IE6 users* were in China rather than 40% of China's population. It looks like it [has drastically improved since then](http://gs.statcounter.com/browser-market-share/all/china).
 - [Pentagon moves on from Windows XP](https://www.military.com/defensetech/2015/06/24/fixing-the-pentagons-windows-xp-problem)
 - [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
   - Legacy systems still using MS-DOS. Food system, mike remembers
 - [NHS](https://en.wikipedia.org/wiki/National_Health_Service_(England))
 - [WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack)
-- [NHS hit by WannaCry](http://www.telegraph.co.uk/news/2017/05/13/nhs-cyber-attack-everything-need-know-biggest-ransomware-offensive/)
+- NHS hit by WannaCry
+  - ["NHS cyber attack: Everything you need to know about 'biggest ransomware' offensive in history"](http://www.telegraph.co.uk/news/2017/05/13/nhs-cyber-attack-everything-need-know-biggest-ransomware-offensive/)
 - [Sam got his lordship in 0008](https://whiletrue.fm/2018/01/the-bitcoin-thing/)
 - 2018 troubles with the NHS
 
 # JavaScript Frameworks 2005-2015
 - [jQuery](https://jquery.com/)
 - [Scriptaculous](https://script.aculo.us/)
-  - Note From Luke - I called it Scriptacular in the recording, but this is what I meant
+  - Note From Luke&mdash;"I called it "Scriptacular" in the recording, but this is what I meant"
 - [MooTools](https://mootools.net/)
 - [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
 - [Jesse James Garrett](https://en.wikipedia.org/wiki/Jesse_James_Garrett)
@@ -153,7 +154,7 @@ explicit = "No"
 - [Redux in React](https://redux.js.org/)
 - [Event-driven architecture in front end](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/architecture/event-driven-programming.md)
 - Shadow DOM
-  - [Note from Luke - I actually meant Virtual DOM!](https://reactjs.org/docs/faq-internals.html)
+  - Note from Luke&mdash;[I actually meant Virtual DOM!](https://reactjs.org/docs/faq-internals.html)
   - [Shadow DOM as Sam explained it](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/) 
 - Data pipelines
   - [AKA ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load)
@@ -161,25 +162,26 @@ explicit = "No"
 - [Select dropdown and Shadow DOM](https://discuss.atom.io/t/wondering-if-its-possible-to-style-the-dropdown-of-select-elements/16014)
 - [Range slider and Shadow DOM](https://css-tricks.com/sliding-nightmare-understanding-range-input/)
 - [Sam explored Elm shortly before 0001](https://whiletrue.fm/2017/10/we-dont-do-segues-here/)
-- tool for video of error done by user
-  - Note from Luke - this is [Fullstory.com](https://www.fullstory.com/) - not strictly a video but might as well be.
-- [Borneo]
+- Tool that shows something like a video of a user's error
+  - [Fullstory.com](https://www.fullstory.com/)
+  - Note from Luke&mdash;This is not strictly a video, but might as well be.
+- [Borneo](https://en.wikipedia.org/wiki/Borneo)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Makefiles](https://en.wikipedia.org/wiki/Makefile)
 - [Rake Task Runner](https://github.com/ruby/rake)
 - [Ruby on Rails](http://rubyonrails.org/)
 - [CoffeeScript](http://coffeescript.org/)
-- [Sass - Syntatically Awesome Stylesheets](https://sass-lang.com/)
+- [Syntatically Awesome Stylesheets](https://sass-lang.com/) (SAAS)
 
 # What abstraction level do you start learning at
 - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - Career fair
 - [Babel](https://babeljs.io/)
-- [building & compiling with webpack](https://webpack.js.org/)
-- [minify/minification](https://en.wikipedia.org/wiki/Minification_(programming))
-- [uglify](https://github.com/mishoo/UglifyJS)
-- [tree-shaking](https://webpack.js.org/guides/tree-shaking/)
-- [Clojure[(https://clojure.org/)
+- [Webpack](https://webpack.js.org/)
+- [Minify/Minification](https://en.wikipedia.org/wiki/Minification_(programming))
+- [Uglify](https://github.com/mishoo/UglifyJS)
+- [Tree-shaking](https://webpack.js.org/guides/tree-shaking/)
+- [Clojure](https://clojure.org/)
 - *Animal Crossing*
   - Available fruit from trees
 - [Common chunks in webpack](https://webpack.js.org/plugins/commons-chunk-plugin/)
