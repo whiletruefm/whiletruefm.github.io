@@ -13,41 +13,45 @@ explicit = "No"
 
 # Guest: Luke Williams
 - Bio
-- Website
+- [Website](http://red-root.com/)
 
 # Front End WebDev (pre-2003)
-- HTML
-- CSS
-- JavaScript
-- Browser incompatibilities
-- Flash
-- Shockwave
-- Java Applets
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [Browser incompatibilities](https://www.keycdn.com/blog/browser-compatibility-testing-tools/)
+- [Flash](https://en.wikipedia.org/wiki/Adobe_Flash)
+- [Shockwave](https://en.wikipedia.org/wiki/Adobe_Shockwave)
+- [Java Applets](https://en.wikipedia.org/wiki/Java_applet#Embedding_into_a_web_page)
 
 # Firebug and Debugging
-- Firebug
-  - EOL
-- Developer Console
-- Alert in Javascript
-- DOM
+- [Firebug](https://en.wikipedia.org/wiki/Firebug_(software))
+  - [EOL](https://getfirebug.com/)
+- [Developer Console](https://en.wikipedia.org/wiki/Web_development_tools)
+  - [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Web_Console)
+  - [Chrome](https://developers.google.com/web/tools/chrome-devtools/console/)
+  - [Edge](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide)
+- [Alert in Javascript](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 # Browser incompatibility
-- Browser stack, debugging tool
+- [Browserstack, debugging tool](https://www.browserstack.com/)
 - Partition
-- Internet Explorer doesn't support indexOf (MDN indexOf page)
-  - Does Edge support it?
-- IE6
-  - IE5.5 for Mac
-- CSS Spec 1
-- CSS Spec 2
-- Mozilla Firefox
-- CSS hover
-- css focused
+- [Internet Explorer 8 doesn't support indexOf](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+  - Does Edge support it? - Yes, see above.
+- [IE6](https://en.wikipedia.org/wiki/Internet_Explorer_6)
+  - [IE5.5 for Mac](https://en.wikipedia.org/wiki/Internet_Explorer_5#Apple_Macintosh)
+- [CSS Spec 1](https://www.w3.org/TR/CSS1/)
+- [CSS Spec 2](https://www.w3.org/TR/2011/REC-CSS2-20110607/)
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/)
+- [CSS hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+- [CSS focus](https://developer.mozilla.org/en-US/docs/Web/CSS/%3Afocus)
 - Rounded corners on the internet
-- div
-- span
-- html italics
-- Dan Cederholms
+  - [early instance of using CSS](https://css-tricks.com/snippets/css/rounded-corners/)
+- [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+- [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [html italics](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
+- [Dan Cederholm](http://simplebits.com/)
 - Command and Conquer
   - Red Alert
   - Red Alert 2
@@ -56,8 +60,8 @@ explicit = "No"
   - Hawaii
   - Australia
 - Dial-up sound
-- Doom
-  - Smaller than the average webpage
+- [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+  - [Smaller than the average webpage](https://www.wired.com/2016/04/average-webpage-now-size-original-doom/)
 - Origin
 - 
 
