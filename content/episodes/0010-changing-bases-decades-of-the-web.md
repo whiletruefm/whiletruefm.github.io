@@ -149,5 +149,37 @@ explicit = "No"
 - Sam explored Elm shortly before 0001
 - tool for video of error done by user
 - Borneo
+- C
+- Makefiles
+- Raketasks
+- Ruby on Rails
+- CoffeeScript
+- SAAS
+
+# What abstraction level do you start learning at
+- Assembly
+- Career fair
+- Babel
+- comile with webpack
+- minify
+- uglify
+- tree-shaking
+- Clojure
+- *Animal Crossing*
+  - Available fruit from trees
+- Common chunks in webpack
+- Excel
+- Ruby
+- Opal
+- Clojurescript
+- Less?
+- Specs?
+- Jade
+- Pug
+- HAML
+- CSS Next
+- Safari
+- W3C
+- Opera Mini
 
 
