@@ -15,7 +15,7 @@ explicit = "No"
 - Bio
 - Website
 
-#Front End WebDev (2003)
+#Front End WebDev (pre-2003)
 - HTML
 - CSS
 - JavaScript
@@ -80,5 +80,75 @@ explicit = "No"
 - jQuery
 - Scriptacular
 - MooTools
+- AJAX
+- Jesse James Garret
+- Progressive Enhancement
+
+#Shockwave, Flash, then iPhone
+- `table`
+- Shockwave
+- Flash
+- Director (creates flash/shock)
+- CD-ROM
+- ECMAScript
+- ActionScript
+- PHP
+- XML
+- Newgrounds
+- tower defense games
+- strongbad
+- weeble and bob
+- "Stephen Fry" by Mr. Weebl
+- "Oxbow Lakes" by Mr. Weebl
+- Flex
+- iPhone
+- Steve Jobs
+- Steve Jobs letter on Flash
+
+# Precursors to frameworks: Dojo, YUI
+- Dojo
+- YUI
+- Yahoo!
+
+# Security concerns
+- UK gov websites found to be loading cryptominer
+- disabling all javascript
+- script tag
+  - security
+- chrome extensions
+- toolbar
+- grammerly
+  - vulnerability found
+- Google Project Zero
+- ftp
+- Ghostery
+  - Privacy policy allows selling to third parties?
+  - TOS?
+- Ad Block Plus
+  - Acceptable Ads
+
+# The Web Is Still Not Crap in 2018
+* ReactJS
+* Emberjs
+* Angular
+* State
+- data binding
+- html templates
+- embedded templates
+- amber? ember?
+- Elm
+  - Model-View/View-Model
+- Vuejs
+- Redux in React
+- Event driven architecture in front end
+- State
+  - State tree
+- Shadow DOM
+- Data pipelines
+- Select dropdown
+- range slider
+- Sam explored Elm shortly before 0001
+- tool for video of error done by user
+- Borneo
 
 
