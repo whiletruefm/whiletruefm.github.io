@@ -196,7 +196,15 @@ explicit = "No"
 - [HAML](http://haml.info/)
 - [CSS Next](http://cssnext.io/)
 - [Safari](https://www.apple.com/uk/safari/)
+
+# Updating Specs
 - [W3C](https://www.w3.org/)
-- [Opera Mini](https://www.opera.com/mobile/mini_
-
-
+- [Opera Mini](https://www.opera.com/mobile/mini)
+- CSS Spec process
+- Request for Comment (RFC)
+- Under Considerations
+- JavaScript feature approval process
+  - Stage 1: This is cool
+  - Stage 2: A browser implements it
+  - Stage 3: This thing works, the API isn't changing
+- CSS ho longer has versions 
