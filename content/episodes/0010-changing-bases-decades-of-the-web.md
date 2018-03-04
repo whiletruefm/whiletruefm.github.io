@@ -208,3 +208,74 @@ explicit = "No"
   - Stage 2: A browser implements it
   - Stage 3: This thing works, the API isn't changing
 - CSS ho longer has versions 
+- gzip
+- rabbit
+  - [Backed by Google Ventures](https://www.crunchbase.com/organization/rabbit)
+  - How to get faster internet with rabbit article
+- Netflix
+- International efforts to improve internet access worldwide
+  - Internet.org
+
+# How Luke Got into Front End
+- DevOps
+- *Dragon Ball Z*
+- Front Page
+- webaudio
+- oscillators
+- synth audio
+- serverless
+- Stack Overflow
+- resnet
+- spork
+- Dan referring to setting servers on fire in 0007
+- Cat as guacamole picture
+  - Dan for shownotes
+- headless Linux terminal
+- SEO
+- /r/webdev
+- SRE
+- Go
+- Rail
+- Bash
+  - Bash scripting
+- Terraform thing
+- SVG
+- JSON
+- Windows 98
+  - Pinball
+
+# Native Apps
+- React Native
+- JSX
+- Electron
+- Atom
+- Slack
+- Virtual Studio Code
+- Discord
+- Inspect Element
+- Apps built in Electron basically get around sandboxing blog post?
+- Reactive Programming
+  - RxPy
+- BeeWare
+- [PyBee](https://pybee.org)
+- Web Assembly (WASM)
+- DeepLearn.js
+- Cryptocurrency
+  - See also: 0008: That Bitcoin Thing
+- Inject JS to mine BitCoin
+- Neural Networks
+- favicon
+- favicon bitcoin miner
+- TensorFire
+- MIT
+- WebGL
+- Transfer learning
+- We talked about those malicious ML uses in 0009
+- DeepFakes
+  - FakeApps
+- Ethics in ML classes at universities
+- Training on 3 white/black teenagers biased ML set
+- "The Questions we should be asking about ML"
+- Algorithmia
+- PyCascades
+  - Talk on inclusion in ML and diversity and such
