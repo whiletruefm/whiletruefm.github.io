@@ -1,19 +1,30 @@
 +++
 title = "Changing Bases: Decades of the Web"
-description = ""
+description = "Veteran web developer Luke Williams joins the panel to discuss the evolution of the web in the new millennium. ...Wait, are we not allowed to call it a 'new millennium' in 2018? It's almost 2 decades old and Luke's been working for 15 years. Anyway, do you remember MooTools?"
 number = "0010"
 date = 2018-02-17T16:32:47-08:00
-draft = true
-categories = ["episode"]
-audio_url = ""
+draft = false
+categories = ["episode", "guest"]
+audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0010.m4a"
 audio_bytes = "0"
 audio_length = "00:00"
 explicit = "No"
 +++
 
 # Guest: Luke Williams
-- Bio
 - [Website](http://red-root.com/)
+
+    I'm a senior full-stack developer with over a decade's experience building
+    web products. I'm most comfortable when I get to touch all aspects of the
+    stack, whether its building a strategy for an autoscaling backend service 
+    or writing a modular CSS framework for a user-facing product, and everything
+    in between.  I am a fervent believer in developing projects in the best 
+    possible way, making sure they are scalable, robust and simple for other
+    developers to work on.
+
+    When I'm not sitting in front of a screen, you will often find me strumming
+    a guitar, playing back row for various rugby sides, or eating copious 
+    amounts of sushi.
 
 # Front End WebDev (pre-2003)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
