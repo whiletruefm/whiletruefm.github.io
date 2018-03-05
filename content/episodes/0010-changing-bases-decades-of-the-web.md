@@ -12,7 +12,9 @@ explicit = "No"
 +++
 
 # Guest: Luke Williams
-- Bio
+- Who is Luke?
+ - Former colleague of Lord Sam Rose. 
+ - From the CV: I'm a senior full-stack developer with over a decade's experience building web and mobile products. I'm most comfortable when I get to touch all aspects of the stack, whether its building a strategy for an autoscaling backend service or writing a modular CSS framework for a user-facing product, and everything in between
 - [Website](http://red-root.com/)
 
 # Front End WebDev (pre-2003)
