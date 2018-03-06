@@ -1,6 +1,6 @@
 +++
 title = "Apology of Sam Rose to the Jury"
-description = "Among the reminisces of Lord Sam Rose, none, as it seems to me, is more deserving of record than the council he took with whiletruefm, not only with regards to Chris Down changing his mind on swap, but also as to the United Kingdom's Maths Balls decision, Dan's interest in DeepFakes, the great failure of *Minecraft*, and so much more that has touched upon the lofty philosopher."
+description = "Among the reminisces of Lord Sam Rose, none, as it seems to me, is more deserving of record than the council he took with whiletruefm, not only with regards to Chris Down changing his mind on swap, but also as to the United Kingdom's Maths Balls decision, Dan's interest in DeepFakes, the great failure of Minecraft, and so much more that has touched upon the lofty philosopher."
 number = "0009"
 date = 2018-02-04T17:27:03-08:00
 draft = false
@@ -161,13 +161,15 @@ explicit = "No"
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 # Guest Credits
+* [Script](/media/0009/Tilotny_Throws_a_Sound_Script.pdf)
+
 * Cast
   * Literally, Unapologetically Mike Overby &mdash; Mike Overby
   * OJ &mdash; Orange Juice "OJ" Overby
   * [Tilotny](http://starwars.wikia.com/wiki/Tilotny) &mdash; Little Winky
   * [Horliss-Horliss](http://starwars.wikia.com/wiki/Horliss-Horliss) &mdash; Roxanne the French Girl
   * [Splendid Ap](http://starwars.wikia.com/wiki/Splendid_Ap) &mdash; Eduardo Coello R. (Nelthorim)
-    * Fellow ProgDisc moderator!
+      * Fellow ProgDisc moderator!
 
 * Explosion sounds
   * ["Molotov Cocktail Bomb"](http://soundbible.com/283-Molotov-Cocktail-Bomb.html) by SoundBible.com
