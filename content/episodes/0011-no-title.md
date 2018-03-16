@@ -1,13 +1,13 @@
 +++
-title = "0011 No Title"
+title = "It's Only Machine Learning"
 description = ""
-number = "0000"
+number = "0011"
 date = 2018-03-04T13:40:16-08:00
 draft = true
 categories = ["episode"]
-audio_url = ""
-audio_bytes = "0"
-audio_length = "00:00"
+audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0011.m4a"
+audio_bytes = "95570000"
+audio_length = "58:14"
 explicit = "No"
 +++
 
@@ -59,47 +59,51 @@ explicit = "No"
 - Trump's Trade War
 - 3.5% unemployment
 
-# Just
-- Just article
-- A List Apart
+# "Just" Considered Dangerous
+- ["The Most Dangerous Word in Software Development"](http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development) by Anthony Colangelo
+- [A List Apart](http://alistapart.com)
 - It's just:
-    - Javascript Frameworks
-    - Machine Learning
-    - Copyright
-    - Infrastructure
-- Recurse Center
-    - Code of Conduct
-    - Rules of conversation
-- pip3
-- pip
-- run something as a module
-- Switch to Python3 (death clock)
+    - [Javascript Frameworks](https://en.wikipedia.org/wiki/Single-page_application#JavaScript_frameworks)
+    - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+    - [Copyright](https://en.wikipedia.org/wiki/Copyright)
+    - [Infrastructure](https://en.wikipedia.org/wiki/Infrastructure)
+- [Recurse Center](https://www.recurse.com)
+    - [Code of Conduct](https://www.recurse.com/code-of-conduct)
+    - [Rules of conversation](https://www.recurse.com/blog/94-why-am-i-saying-this)
+- [pip](https://pip.pypa.io/en/stable/)
+- [Execute Python modules as scripts](https://www.python.org/dev/peps/pep-0338/)
+- [Switch to Python3](https://pythonclock.org)
 
 # Switching phones
-- iPhone
-    - iPhone 3G
-    - iPhone 6+
-- AT&T
-    - Unlimited plan grandfathered
-- Google Pixel
-    - Google Pixel 2 XL
-- Project Fi
-- VisionList
-- iMessage
-- Allo
-- QR Code
-- Google Assistant
-- Discord
-- Signal
-- Wickrme
-- STQRY
-- Samsung S9+
-- FedEx
-- Verizon Wireless
-- TouchWiz
-- Google Helper
+- [iPhone](https://www.apple.com/iphone/)
+    - [iPhone 3G](https://en.wikipedia.org/wiki/IPhone_3G)
+    - [iPhone 6+](https://en.wikipedia.org/wiki/IPhone_6)
+- [AT&T](https://www.att.com)
+    - [Unlimited plan grandfathered](https://www.cnet.com/news/unlimited-data-plans-grandfathered-or-not/)
+- [Google Pixel](https://en.wikipedia.org/wiki/Google_Pixel)
+    - [Pixel 2 XL](https://en.wikipedia.org/wiki/Pixel_2)
+- [Project Fi](https://fi.google.com/about/)
+- [VisionList](http://www.visionscience.com)
+- [iMessage](https://support.apple.com/explore/messages)
+- [Allo](https://allo.google.com)
+- [QR Code](content/episodes/0011-no-title.md [+]                    )
+- [Google Assistant](https://assistant.google.com)
+- [Discord](https://discordapp.com)
+- [Signal](https://www.signal.org)
+- [Wickr Me](https://www.wickr.com/personal)
+- [STQRY](https://www.stqry.com)
+- [Samsung S9+](https://en.wikipedia.org/wiki/Samsung_Galaxy_S9)
+- [FedEx](http://fedex.com/)
+- [Verizon Wireless](https://www.verizonwireless.com/)
+- [TouchWiz](https://en.wikipedia.org/wiki/TouchWiz)
 - ["whiletruefm" on Letterboxd](https://letterboxd.com/search/whiletruefm/)
 - [Mike on Letterboxd](https://letterboxd.com/lethargilistic)
 
 # Side A
-- HealthHQ
+- [HealthHQ](https://www.healthiq.com/careers)
+    - They updated their site to downplay the issues. Their site design
+      prevented the Internet Archive from storing a copy of the original
+      version.
+
+# Guest credits
+- Loyal Listener &mdash; Blake Dillinger
