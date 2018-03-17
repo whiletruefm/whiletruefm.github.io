@@ -12,50 +12,53 @@ explicit = "No"
 +++
 
 # Petextrians and Autonomous Vehicles
-- Petextrian article
-- Article with the roads flipping the bird
-- "Jay-Walking" came from a smear campaign
-- Autonomous Vehicles
-- Elf attacking cars w/ sword and spear
-- North Oregon is weird
-- Methamphetamine (Meth)
-- Darwin Awards
-- Article about native new yorker jaywalking
-- Pittsburgh Left
-- Why we flash tail lights
-- headlights
-- autonomous vehicle raise insurance rate
-- self-balancing motorcycle
-- naturalism
-- Jay Leno
-- McLaren F1
-- Porche
-- autonomous vehicle kits
-- level 5 autonomous driving
+- ["Who's Afraid of the 'Petextrian'?"](https://thebaffler.com/latest/whos-afraid-petextrian-fraade) by Jordan Fraade
+- ["Driverless cars might follow the rules of the road, but what about the language of driving?"](https://theconversation.com/driverless-cars-might-follow-the-rules-of-the-road-but-what-about-the-language-of-driving-88824) by Abdesalam Soudi
+- "Jaywalking" came from a smear campaign
+    - ["A Brief History Of "Jaywalking" In NYC"](http://gothamist.com/2015/08/04/jaywalking_history_nyc.php)
+- [Autonomous Vehicles](https://en.wikipedia.org/wiki/Vehicular_automation)
+- ["Woman's car attacked by self-identified 'high elf' battling evil"](http://katu.com/news/local/womans-car-attacked-by-self-identified-high-elf-battling-evil-11-19-2015)
+- [North Oregon is weird](https://en.wikipedia.org/wiki/Keep_Portland_Weird)
+- [Methamphetamine](https://en.wikipedia.org/wiki/Methamphetamine) (Meth)
+- [Darwin Awards](http://www.darwinawards.com)
+- ["Ask A Native New Yorker: Should I Jaywalk?"](http://gothamist.com/2015/08/07/jaywalk_do_or_dont.php)
+- [Pittsburgh Left](https://en.wikipedia.org/wiki/Pittsburgh_left)
+- [Headlights](https://en.wikipedia.org/wiki/Headlamp)
+    - [Why we flash lights on the road](https://en.wikipedia.org/wiki/Headlight_flashing)
+- ["How Self-Driving Cars Will Impact Your Auto Insurance"](https://www.forbes.com/sites/robertharrow/2016/03/01/how-self-driving-cars-will-impact-your-auto-insurance/#485e2bdf5592) from Forbes
+- ["How Self-Driving Cars Will Impact Your Auto Insurance"](https://www.huffingtonpost.com/allan-smith/how-selfdriving-cars-will_b_10890256.html) from Huffington Post
+- ["This BMW motorcycle balances itself"](https://www.usatoday.com/story/money/2016/10/11/bmws-future-vision-includes-self-balancing-motorcycle/91908774/)
+- [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy))
+- [Jay Leno](https://en.wikipedia.org/wiki/Jay_Leno)
+- [McLaren F1](https://en.wikipedia.org/wiki/McLaren_F1)
+- [Porsche](https://en.wikipedia.org/wiki/Porsche)
+- ["Retrofitted self-driving kit designed to make any truck autonomous"](https://newatlas.com/otto-self-driving-truck-retrofit-kit/43398/)
+- [Autonomous driving levels 0 to 5: Understanding the differences](https://www.techrepublic.com/article/autonomous-driving-levels-0-to-5-understanding-the-differences/)
 
 # American Infrastructure Spending
-- Donald Trump
-- Infrastructure spending bill
+- [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)
+- ["Trump: I will ask Congress for a $1 trillion infrastructure bill"](https://www.cnn.com/2017/02/28/politics/trump-infrastructure-trillion-congress/index.html)
 - Seattle roads are terrible
-    - Article on how bad the roads are
-    - [article](https://projects.seattletimes.com/2018/one-center-city/)
+    - ["Study: Traffic in Seattle still horrible, ranks 2nd-worst in U.S. for evening rush hour congestion"](https://www.geekwire.com/2016/study-traffic-seattle-still-horrible-ranks-2nd-worst-u-s-evening-rush-hour-congestion/)
+    - ["What Seattle's Doing About Bad Traffic (Hint: Not a Whole Lot)"](http://www.seattlemag.com/article/what-seattles-doing-about-bad-traffic-hint-not-whole-lot)
+    - ["If you think Seattle traffic is bad now, just wait until these projects start"](https://projects.seattletimes.com/2018/one-center-city/)
 - Light addition that Mike was talking about
     - [Mercer Street](https://en.wikipedia.org/wiki/Mercer_Street)
     - ["More traffic lights on Mercer Street: Ramp-metering signals coming to I-5 onramps"](https://www.seattletimes.com/seattle-news/transportation/more-traffic-lights-on-mercer-street-ramp-metering-signals-coming-to-i-5-onramps/)
-- United States National Debt
-    - Obama taking steps to fix the debt, lower deficit
-    - Increase in deficit under Trump
-- Teachers have to pay for school supplies out of pocket
-- Florida allocates $67 million on gun training for teachers
-    - Parkland shooting
+- [United States National Debt](https://en.wikipedia.org/wiki/National_debt_of_the_United_States)
+    - [Obama taking steps to lower the deficit](http://www.politifact.com/truth-o-meter/statements/2015/jan/20/barack-obama/barack-obama-claims-deficit-has-decreased-two-thir/)
+    - ["https://www.bloomberg.com/news/articles/2017-09-28/most-economists-agree-trump-tax-plan-will-widen-budget-deficit"](https://www.bloomberg.com/news/articles/2017-09-28/most-economists-agree-trump-tax-plan-will-widen-budget-deficit)
+- ["Here’s How Much Your Kid’s Teacher Is Shelling Out for School Supplies"](http://time.com/money/4392319/teachers-buying-school-supplies/)
+- ["Florida House Approves $67 Million To Train And Arm Teachers"](https://thebradlo.com/2018/02/28/florida-house-approves-67-million-to-train-and-arm-teachers/)
+    - [Parkland shooting](https://en.wikipedia.org/wiki/Stoneman_Douglas_High_School_shooting)
     - ["Despite Parkland’s opposition, Florida House panel votes to arm teachers"](http://www.tampabay.com/florida-politics/buzz/2018/02/27/florida-house-panel-rejects-ban-on-assault-weapons/)
 - [List of newspapers in
   Oklahoma](https://en.wikipedia.org/wiki/List_of_newspapers_in_Oklahoma)
 - Article about infrastructure in OK
 - Article about infrastructure in OR
     - Lighthouse falling about in OR?
-- The New Deal
-    - WPA
+- [The New Deal](https://en.wikipedia.org/wiki/New_Deal)
+    - [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration)
 - Trump's Trade War
 - 3.5% unemployment
 
