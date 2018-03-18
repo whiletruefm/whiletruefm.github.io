@@ -8,7 +8,7 @@ categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0011.m4a"
 audio_bytes = "95570000"
 audio_length = "58:14"
-explicit = "No"
+(explicit = "No"
 +++
 
 # Petextrians and Autonomous Vehicles
@@ -54,13 +54,13 @@ explicit = "No"
     - ["Despite Parkland’s opposition, Florida House panel votes to arm teachers"](http://www.tampabay.com/florida-politics/buzz/2018/02/27/florida-house-panel-rejects-ban-on-assault-weapons/)
 - [List of newspapers in
   Oklahoma](https://en.wikipedia.org/wiki/List_of_newspapers_in_Oklahoma)
-- Article about infrastructure in OK
-- Article about infrastructure in OR
-    - Lighthouse falling about in OR?
+- [2013 Oklahoma Infrastructure Report Card: C-](https://www.infrastructurereportcard.org/state-item/oklahoma/)
+- [Infrastructure in Oregon](https://www.infrastructurereportcard.org/state-item/oregon/)
 - [The New Deal](https://en.wikipedia.org/wiki/New_Deal)
     - [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration)
-- Trump's Trade War
-- 3.5% unemployment
+- ["Did Trump Just Start a Global Trade
+  War?"](https://www.bloomberg.com/news/articles/2018-03-08/did-donald-trump-just-start-a-global-trade-war-quicktake)
+- [Unemployment rate in the United States](https://data.bls.gov/timeseries/LNS14000000)
 
 # "Just" Considered Dangerous
 - ["The Most Dangerous Word in Software Development"](http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development) by Anthony Colangelo
