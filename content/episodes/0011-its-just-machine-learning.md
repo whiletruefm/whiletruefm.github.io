@@ -1,7 +1,6 @@
 +++
 title = "It's Only Machine Learning"
-description = "Automakers are trying to make 'petextrian' happen on the way to
-automated vehicles, Kenneth shares the most dangerous word in software development, and America's bridges are falling down."
+description = "Automakers are trying to make 'petextrian' happen on the way to automated vehicles, Kenneth shares the most dangerous word in software development, and America's bridges are falling down."
 number = "0011"
 date = 2018-03-04T13:40:16-08:00
 draft = true
