@@ -33,27 +33,25 @@ explicit = "No"
 - ["Pokémon plays Twitch: How a robot got IRC running on an unmodified SNES"](https://arstechnica.com/gaming/2015/01/pokemon-plays-twitch-how-a-robot-got-irc-running-on-an-unmodified-snes/)
 - [Prevent Cancer Foundation](https://preventcancer.org)
 - [*The Elder Scrolls V: Skyrim*](https://elderscrolls.bethesda.net/en/skyrim)
-  - speedrun
-  - glitches
+  - [Speedrun](https://www.youtube.com/watch?v=zN6Cl-kE8dE)
+  - [Glitches](https://www.youtube.com/playlist?list=PL25YuOCTS-Sy9y1gIFaO2AYvn-cDDVcX9)
 - [*Doom 2016*](https://doom.com/en-us/)
-  - speedrun
-  - glitches
+  - [Speedrun](https://www.youtube.com/watch?v=2XdKwmiDYa8)
+  - [Glitches](https://www.youtube.com/watch?v=pElBpj4TtqI)
 - [*Super Mario 64*](https://en.wikipedia.org/wiki/Super_Mario_64)
-  - glitches
-  - jump ass first, win any%
+  - [Glitches](https://www.youtube.com/watch?v=olvxH_SL1C8)
+  - [Jump butt first, win 0 stars](https://www.youtube.com/watch?v=AQn0bntLcEQ)
 - [*The Legend of Zelda: Ocarina of Time*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
-  - glitches
-  - glitch where rooms do not load and you are blind
+  - [Glitches](https://www.youtube.com/watch?v=50iezeCIOyw)
+  - [Glitch where rooms do not load and you are blind](https://www.youtube.com/watch?v=sMRmTV1IMwM)
 - [*The Legend of Zelda: Ocarina of Time 3D*](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_3D)
-  - glitches
+  - [Glitches](https://www.youtube.com/watch?v=95jyuyLMSH8)
 - [Grezzo](http://www.grezzo.co.jp/en/)
 - [*Diablo II*](http://us.blizzard.com/en-us/games/d2/)
-  - speedrun strats
+  - [Speedrun strats](http://nightfallx2.wixsite.com/d2speedruns)
 - [Runnerguy2489 runs *Ocarina of Time* while blindfolded](https://www.youtube.com/watch?v=IhHMW_atNG4)
-  - stuck in water
-  - runnerguywhatever. it's in #recordingstudio
 - [*Portal 2*](http://www.thinkwithportals.com)
-  - speedrun of coop
+  - [Speedrun of coop](https://www.youtube.com/watch?v=e4huoBsSXHM)
 - [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS)
   - [GlaDOS's *Portal 2* Co-Op cues](https://www.youtube.com/watch?v=bRdjVCrVYSM)
 
@@ -100,43 +98,41 @@ explicit = "No"
 # Journals
 - [Tweet that inspired this](https://twitter.com/ScribblingOn/status/948949915551465472)
   - It has a lot of different styles listed in the replies
-- Blackboard
-- Field notes
-  - dilly's pick
+- [Blackboard](http://www.blackboard.com)
+- [Field Notes](https://fieldnotesbrand.com)
+  - [Dilly's pick](https://www.amazon.com/Field-Notebook-x5-5-Black-Graph/dp/B07488WL4F)
 - Leather journal
-  - dilly's pick
-- Logbook
-- Personal goals
-- Spain
-- Una Kravits
-- @Una on Github
-- Minecraft
-- Zork
-- Sticky notes
-- CS:GO
-  - The major
-- git gud
-- Matlab
-- `size_t`
-- `int` pointers
-- What library was Dan using?
-- You have to purchase Matlab
-- Moleskine
+  - [Dilly's pick](https://www.amazon.com/Biocca-Genuine-Leather-Notepad-Journal/dp/B077JJ6RSB)
+- [Logbook](https://routley.io/tech/2017/11/23/logbook.html)
+- [Una Kravets](http://unakravets.com)
+- [@Una on Github](https://github.com/una)
+- [*Minecraft*](http://minecraft.net)
+- [*Zork*](https://en.wikipedia.org/wiki/Zork)
+- [Sticky notes](https://en.wikipedia.org/wiki/Post-it_note)
+- [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive) (CS:GO)
+- [git gud](http://knowyourmeme.com/memes/git-gud)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+  - [You have to purchase a MATLAB
+- [`size_t`](https://stackoverflow.com/a/2550799)
+- [Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+  license](https://www.mathworks.com/store/link/products/student/new?s_iid=coabt_sv_cntsls_bod)
+- [Moleskine](https://us.moleskine.com)
 - Mike also wants to credit all the teachers who forced him to journal his thoughts in class. Those sessions meant more later on.
-- Uniball Signo 307
-- Code and Quill
-  - Monolith
-- ASMR
-- ASMR pen guy
-- Fountain pens
-- Parker pens
-- frission
-- Jenny Nicholson
-  - Top 10 reasons won't do ASMR
-- *Star Wars*
-- My Little Pony
+- [Uniball Signo
+  307](https://www.amazon.com/Uni-Ball-Medium-Retractable-Rollerball-UMN-307/dp/B06XKXFLH6)
+- [Code & Quill](https://www.codeandquill.com)
+  - [Monolith](https://www.codeandquill.com/collections/notebooks/products/monolith)
+- [ASMR](https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response)
+- ["Pen and Ink Videos"](https://www.youtube.com/playlist?list=PLA11D6616FFE38BFC) by RelaxingASMR
+- [Fountain pens](https://en.wikipedia.org/wiki/Fountain_pen)
+- [Parker pens](http://www.parkerpen.com)
+- [Frisson](https://en.wikipedia.org/wiki/Frisson)
+- [Jenny Nicholson](https://www.youtube.com/user/JennyENicholson)
+  - ["Top 10 Reasons I Won't Do ASMR ASMR"](https://www.youtube.com/watch?v=3QcjAmnDTos)
+- [*Star Wars*](https://starwars.com)
+- [*My Little Pony*](https://mylittlepony.hasbro.com/en-us)
 - Episodes 0001-0007 took place in 2017.
-- Èccolo
+- [Èccolo](https://www.eccololtd.com)
   - They seem to have discontinued Mike's journal, and none of the journals he could find on their website were as expensive as this one was when it released, so maybe they've changed strategies.
 
 # Bitcoin is Stupid
@@ -210,4 +206,4 @@ explicit = "No"
   - [Painting the tape](https://www.investopedia.com/terms/p/paintingthetape.asp)
   - [Frontrunning](https://en.wikipedia.org/wiki/Front_running)
 - ["Researchers find that one person likely drove Bitcoin from $150 to $1,000"](https://techcrunch.com/2018/01/15/researchers-finds-that-one-person-likely-drove-bitcoin-from-150-to-1000/)
-- [Journal of Monetary Economics](https://www.journals.elsevier.com/journal-of-monetary-economics/)
+- [*Journal of Monetary Economics*](https://www.journals.elsevier.com/journal-of-monetary-economics/)
