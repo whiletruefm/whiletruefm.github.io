@@ -59,20 +59,46 @@ How each of the hosts spends a typical day
 ## Kenneth Love
 * [Good Mythical Morning](https://www.mythical.co/shows-good-mythical-morning)
 * [O'Reilly Media](https://www.oreilly.com/)
+* "No Spin Zone"
+  * The O'Reilly Factor
+* O'Reilly Spark Time
+* Google 20% time
+* JavaScript
+* Go
+* Steam
 * [*Rimworld*](https://rimworldgame.com/) by Ludeon Studios
 * [*Space Engineers*](http://www.spaceengineersgame.com/) by Keen Software House
 * [Bouldering](https://en.wikipedia.org/wiki/Bouldering)
+  * Lead Rope
+  * Top Rope
+* Rock Climbing
+* How to fall and roll
+  * How to fall from plane
+Bicycling
+* RSI
+  * Sam discussed this in 0002
+* Nerve damage
 
 ## Sam Rose
+* Physiotherapist
 * [De Quervain tenosynovitis](https://en.wikipedia.org/wiki/De_Quervain_syndrome)
+* Hearthstone
+* PUBG
+* Shroud highlights
 * [London tube](https://tfl.gov.uk/modes/tube/)
+* New York metro system
+* France metro system
 * [Tea](https://en.wikipedia.org/wiki/Tea)
+  * [Cold tea](http://www.samovartea.com/how-to-make-cold-brewed-teas/)
+  * [Iced tea](https://en.wikipedia.org/wiki/Iced_tea)
+  * [Sweet tea](https://en.wikipedia.org/wiki/Sweet_tea)
+  * [Hot tea](http://the.republicoftea.com/library/how-to-make-tea/how-to-brew-hot-tea/)
+  * [Brewed tea](https://www.itoen.com/all-things-tea/preparing-tea)
+* Email
+* Morning people and night people
 * [*Rocket League*](https://www.rocketleague.com/) by Psyonix
-* [Cold tea](http://www.samovartea.com/how-to-make-cold-brewed-teas/)
-* [Iced tea](https://en.wikipedia.org/wiki/Iced_tea)
-* [Sweet tea](https://en.wikipedia.org/wiki/Sweet_tea)
-* [Hot tea](http://the.republicoftea.com/library/how-to-make-tea/how-to-brew-hot-tea/)
-* [Brewed tea](https://www.itoen.com/all-things-tea/preparing-tea)
+* League of Legends
+* CS:GO
 
 # Real Programmers
 * ["The Story of Mel, a Real Programmer"](https://www.cs.utah.edu/~elb/folklore/mel.html), traditional
@@ -82,23 +108,70 @@ How each of the hosts spends a typical day
 
 # Tech Burnout
 * ["Only You Can Prevent Tech Burnout"](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) by April Wensel
+* April Winsel's article
+* Silicon Valley
+* Tech burnout
+* CMS
 
 # Kenneth Love's Twitter
 * [Kenneth Love (@kennethlove) on Twitter](https://twitter.com/kennethlove)
+* #loveectomy
 
 # Tech Burnout, cont
+* Taking a walk
 * TED Talks on Growth Mindset
   * ["The Power of Belief"](https://www.youtube.com/watch?v=pN34FNbOKXc) by Eduartdo Briceno
   * ["Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) by Carol Dweck
   * ["Change your mindset, Change the game"](https://www.youtube.com/watch?v=0tqq66zwa7g) by Alia Crum
   * ["Grit: the power of passion and perseverance"](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
+* SMART goals
+* Mathematician's Lament
+* Endorphine
 
 # Social Isolation
 * ["How Social Isolation Is Killing Us"](https://www.nytimes.com/2016/12/22/upshot/how-social-isolation-is-killing-us.html) by Dhruv Khullar
+* Social isolation
+* Social graph
+* Networking
+* Other podcasts with Kenneth Love
+* Mike misspoke. He made some friends in the Midwest, some close.
+* World of Warcraft
+* Rule of 4 friends
+* Third wheel
+* Pop culture
+* "We don't do that here"
+* White Nationalism
+* Ben Shapiro on Twitter
 * [Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
+  * Windows logo in vaporwave
+  * Statue of David in vaporwave
+* Outrun
+* Hotline Miami
+* Grand Theft Auto
 * [Fidget Spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
 
 # Mattress Startups
 * ["The War To Sell You A Mattress Is An Internet Nightmare"](https://www.fastcompany.com/3065928/sleepopolis-casper-bloggers-lawsuits-underside-of-the-mattress-wars) by David Zax
+* Casper v. Sleepopolis
 * [Casper](https://casper.com/)
+  * Casper satisfaction warranty
   * Not a sponsor of the podcast at this time.
+* Tempurpedic
+* Memory foam
+* Serta
+* Eve
+* Purple
+* Sleepnumber
+* Gimlet Media
+* This American Life
+* Parking Panda
+* Illegal to sell public parking spaces
+* Making Uber/Lyft bus in SF
+* Co-living tweet
+* Techbros mom tweet
+* Quarters startup
+  * Did it fail?
+Instacart
+* Blue Apron
+* Hello Fresh
+* Yumly
