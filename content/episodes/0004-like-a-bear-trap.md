@@ -60,45 +60,43 @@ How each of the hosts spends a typical day
 * [Good Mythical Morning](https://www.mythical.co/shows-good-mythical-morning)
 * [O'Reilly Media](https://www.oreilly.com/)
 * "No Spin Zone"
-  * The O'Reilly Factor
-* O'Reilly Spark Time
-* Google 20% time
-* JavaScript
-* Go
-* Steam
+  * [The O'Reilly Factor](https://en.wikipedia.org/wiki/The_O'Reilly_Factor)
+* [JavaScript](https://www.javascript.com)
+* [Go](https://golang.org)
+* [Steam](http://store.steampowered.com)
 * [*Rimworld*](https://rimworldgame.com/) by Ludeon Studios
 * [*Space Engineers*](http://www.spaceengineersgame.com/) by Keen Software House
 * [Bouldering](https://en.wikipedia.org/wiki/Bouldering)
-  * Lead Rope
-  * Top Rope
-* Rock Climbing
+* [Rock Climbing](https://en.wikipedia.org/wiki/Rock_climbing)
 * How to fall and roll
-  * How to fall from plane
-Bicycling
-* RSI
+  * ["What to do if your Parachute Fails"](https://www.youtube.com/watch?v=dy5xLVx2NGY)
+* [Bicycling](https://en.wikipedia.org/wiki/Cycling)
+* [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury)
   * Sam discussed this in 0002
-* Nerve damage
+* [Nerve damage](https://en.wikipedia.org/wiki/Nerve_injury)
 
 ## Sam Rose
-* Physiotherapist
+* [Physiotherapist](https://en.wikipedia.org/wiki/Physical_therapy)
 * [De Quervain tenosynovitis](https://en.wikipedia.org/wiki/De_Quervain_syndrome)
-* Hearthstone
-* PUBG
-* Shroud highlights
+* [Hearthstone](https://playhearthstone.com/en-us/)
+* [PlayerUnknown's Battlegrounds](https://playbattlegrounds.com/main.pu) (PUBG)
+* [Shroud PUBG highlights](https://www.youtube.com/watch?v=Cw0TkbuSzOY&list=PLy0bmm7OMgiZqMueTQraQ45s8jGpolTFI)
 * [London tube](https://tfl.gov.uk/modes/tube/)
-* New York metro system
-* France metro system
+* [New York metro system](http://web.mta.info/maps/submap.html)
+* [Paris Métro](https://en.wikipedia.org/wiki/Paris_Métro)
 * [Tea](https://en.wikipedia.org/wiki/Tea)
   * [Cold tea](http://www.samovartea.com/how-to-make-cold-brewed-teas/)
   * [Iced tea](https://en.wikipedia.org/wiki/Iced_tea)
   * [Sweet tea](https://en.wikipedia.org/wiki/Sweet_tea)
   * [Hot tea](http://the.republicoftea.com/library/how-to-make-tea/how-to-brew-hot-tea/)
   * [Brewed tea](https://www.itoen.com/all-things-tea/preparing-tea)
-* Email
+* [Email](https://en.wikipedia.org/wiki/Email)
 * Morning people and night people
+  * [Early bird](https://en.wikipedia.org/wiki/Lark_(person)) (morningness)
+  * [Night owl](https://en.wikipedia.org/wiki/Night_owl_(person)) (eveningness)
 * [*Rocket League*](https://www.rocketleague.com/) by Psyonix
-* League of Legends
-* CS:GO
+* [*League of Legends*](https://leagueoflegends.com/)
+* [Counter-Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive) (CS:GO)
 
 # Real Programmers
 * ["The Story of Mel, a Real Programmer"](https://www.cs.utah.edu/~elb/folklore/mel.html), traditional
@@ -108,70 +106,67 @@ Bicycling
 
 # Tech Burnout
 * ["Only You Can Prevent Tech Burnout"](https://medium.com/@Aprilw/only-you-can-prevent-tech-burnout-be3f0504c627) by April Wensel
-* April Winsel's article
-* Silicon Valley
-* Tech burnout
-* CMS
+* [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
+* [Occupational burnout](https://en.wikipedia.org/wiki/Occupational_burnout)
+* [Content Management System](https://en.wikipedia.org/wiki/Content_management_system) (CMS)
 
 # Kenneth Love's Twitter
 * [Kenneth Love (@kennethlove) on Twitter](https://twitter.com/kennethlove)
-* #loveectomy
+* [#loveectomy](https://twitter.com/search?q=%23loveectomy%20from%3Akennethlove&src=typd)
 
 # Tech Burnout, cont
-* Taking a walk
 * TED Talks on Growth Mindset
   * ["The Power of Belief"](https://www.youtube.com/watch?v=pN34FNbOKXc) by Eduartdo Briceno
   * ["Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) by Carol Dweck
   * ["Change your mindset, Change the game"](https://www.youtube.com/watch?v=0tqq66zwa7g) by Alia Crum
   * ["Grit: the power of passion and perseverance"](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
-* SMART goals
-* Mathematician's Lament
-* Endorphine
+* [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria)
+* [A Mathematician's Lament](https://www.maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf)
+* [Endorphins](https://en.wikipedia.org/wiki/Endorphins)
 
 # Social Isolation
 * ["How Social Isolation Is Killing Us"](https://www.nytimes.com/2016/12/22/upshot/how-social-isolation-is-killing-us.html) by Dhruv Khullar
-* Social isolation
-* Social graph
-* Networking
-* Other podcasts with Kenneth Love
+* [Social isolation](https://en.wikipedia.org/wiki/Social_isolation)
+* [Social graph](https://en.wikipedia.org/wiki/Social_graph)
+* [Networking](https://en.wikipedia.org/wiki/Business_networking)
+* Another podcast featuring Kenneth Love
+  * [*The Forrst Podcast*](http://forrstpodcast.tumblr.com)
 * Mike misspoke. He made some friends in the Midwest, some close.
-* World of Warcraft
+* [*World of Warcraft*](https://worldofwarcraft.com)
 * Rule of 4 friends
-* Third wheel
-* Pop culture
-* "We don't do that here"
-* White Nationalism
-* Ben Shapiro on Twitter
+  * Unfortunately, Mike was unable to find research about ideal friend group size.
+* [Third wheel](https://en.wikipedia.org/wiki/Third_wheel)
+* [Pop culture](https://en.wikipedia.org/wiki/Popular_culture)
+* ["We don't do that here"](http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
+* [White Nationalism](https://en.wikipedia.org/wiki/White_nationalism)
+* [Ben Shapiro (@benshapiro)](https://twitter.com/benshapiro) on Twitter
 * [Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
-  * Windows logo in vaporwave
-  * Statue of David in vaporwave
-* Outrun
-* Hotline Miami
-* Grand Theft Auto
+* [*Hotline Miami*](http://hotlinemiami.com)
+* [*Grand Theft Auto*](http://www.rockstargames.com/grandtheftauto/)
 * [Fidget Spinner](https://en.wikipedia.org/wiki/Fidget_spinner)
 
 # Mattress Startups
 * ["The War To Sell You A Mattress Is An Internet Nightmare"](https://www.fastcompany.com/3065928/sleepopolis-casper-bloggers-lawsuits-underside-of-the-mattress-wars) by David Zax
-* Casper v. Sleepopolis
 * [Casper](https://casper.com/)
-  * Casper satisfaction warranty
   * Not a sponsor of the podcast at this time.
-* Tempurpedic
-* Memory foam
-* Serta
-* Eve
-* Purple
-* Sleepnumber
-* Gimlet Media
-* This American Life
-* Parking Panda
+* [Tempurpedic](https://www.tempurpedic.com)
+* [Memory foam](https://en.wikipedia.org/wiki/Memory_foam)
+* [Serta](https://www.serta.com/index.html)
+* [Eve](https://www.sleepeve.com)
+* [Purple](https://purple.com)
+* [Sleepnumber](https://www.sleepnumber.com)
+* [Gimlet Media](https://en.wikipedia.org/wiki/Gimlet_Media)
+* [*This American Life*](https://en.wikipedia.org/wiki/This_American_Life)
+* [Parking Panda](https://en.wikipedia.org/wiki/Parking_Panda)
 * Illegal to sell public parking spaces
-* Making Uber/Lyft bus in SF
-* Co-living tweet
+  * ["Sorry, startups: Selling public parking places is illegal"](https://www.pcworld.com/article/2366983/sorry-startups-selling-public-parking-places-is-illegal.html)
+* Making Uber bus in San Francisco
+  * ["Uber is turning San Francisco cabs into buses"](https://www.theverge.com/2015/8/25/9204349/uber-smart-routes-san-francisco-cab-bus)
+* [Coliving](https://en.wikipedia.org/wiki/Cohousing)
 * Techbros mom tweet
 * Quarters startup
-  * Did it fail?
-Instacart
-* Blue Apron
-* Hello Fresh
-* Yumly
+  * ["The Laundry Quarters Delivery Startup Is Dead (And in Hell?)"](http://valleywag.gawker.com/the-laundry-quarters-startup-is-dead-1596481798)
+* [Instacart](https://www.instacart.com)
+* [Blue Apron](https://www.blueapron.com)
+* [HelloFresh](https://www.hellofresh.com)
+* [Yummly](https://www.yummly.com)
