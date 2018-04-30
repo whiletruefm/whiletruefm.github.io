@@ -1,10 +1,6 @@
 +++
 title = "Streaming Plaintext"
-description = "Hackers got under UnderArmor's armor to find plaintext, so
-Kenneth wants to talk about Canary Tokens. Dan updates us on his upcoming
-Seattle experience with his Amazon internship. Sam talks Rust and LISP, then
-learning programming via Twitch streams. Mike is absent because he
-is testing wedding cake for a friend."
+description = "Hackers got under UnderArmor's armor to find plaintext, so Kenneth wants to talk about Canary Tokens. Dan updates us on his upcoming Seattle experience with his Amazon internship. Sam talks Rust and LISP, then learning programming via Twitch streams. Mike is absent because he is testing wedding cake for a friend."
 number = "0013"
 date = 2018-03-31T23:24:19-07:00
 draft = false
