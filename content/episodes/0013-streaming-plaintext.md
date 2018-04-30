@@ -1,12 +1,16 @@
 +++
 title = "Streaming Plaintext"
-description = ""
+description = "Hackers got under UnderArmor's armor to find plaintext, so
+Kenneth wants to talk about Canary Tokens. Dan updates us on his upcoming
+Seattle experience with his Amazon internship. Sam talks Rust and LISP, then
+learning programming via Twitch streams. Mike is absent because he
+is testing wedding cake for a friend."
 number = "0013"
 date = 2018-03-31T23:24:19-07:00
-draft = true
+draft = false
 categories = ["episode"]
 audio_url = "http://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0013.m4a"
-audio_bytes = "0"
+audio_bytes = "61427961"
 audio_length = "41:32"
 explicit = "No"
 +++
@@ -41,7 +45,8 @@ explicit = "No"
 - [United States Postal Service](https://en.wikipedia.org/wiki/United_States_Postal_Service) (USPS)
 
 # Streaming Code
-- Person Sam was helping on Twitch
+- [Samwhoo on Twitch](https://www.twitch.tv/samwhoo)
+- [lildinked on Twitch](https://www.twitch.tv/lildinked)
 - [NodeJS](https://nodejs.org/en/)
 - [Requests](http://docs.python-requests.org/en/master/)
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
