@@ -1,6 +1,6 @@
 +++
 title = "Appeal the Mirrortocracy"
-description = ""
+description = "Special guest Julia joins Mike and Kenneth!  Stack Overflow's welcoming problem and Mike's conversation with Jeff Atwood; Eric Lundgren is going to prison, but Mike doesn't believe he committed a crime, and Kenneth is here with some balance; Why are we writing CSS like it's 1996?"
 number = "0014"
 date = 2018-04-29T11:07:25-07:00
 draft = false
