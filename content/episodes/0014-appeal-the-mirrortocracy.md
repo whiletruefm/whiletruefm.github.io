@@ -3,7 +3,7 @@ title = "Appeal the Mirrortocracy"
 description = ""
 number = "0014"
 date = 2018-04-29T11:07:25-07:00
-draft = true
+draft = false
 categories = ["episode"]
 audio_url = "https://s3.us-east-2.amazonaws.com/whiletrue.fm/whiletruefm-0014.m4a"
 audio_bytes = "106944408"
@@ -63,8 +63,8 @@ explicit = "No"
   - Bad entrance into Seattle
 - [Tacoma Dome](https://en.wikipedia.org/wiki/Tacoma_Dome)
   - Construction on I-5 by Tacoma Dome
-    - ["When will all the Tacoma construction end?"](http://mynorthwest.com/376098/when-will-all-the-tacoma-construction-end/?)
-    - ["Never ending Tacoma construction continues: Plan ahead for I-5 southbound split!"](http://q13fox.com/2017/07/12/never-ending-tacoma-construction-continues-plan-ahead-for-i-5-southbound-split/)
+      - ["When will all the Tacoma construction end?"](http://mynorthwest.com/376098/when-will-all-the-tacoma-construction-end/?)
+      - ["Never ending Tacoma construction continues: Plan ahead for I-5 southbound split!"](http://q13fox.com/2017/07/12/never-ending-tacoma-construction-continues-plan-ahead-for-i-5-southbound-split/)
 
 # Eric Lundgren
 - ["E-waste recycler Eric Lundgren loses appeal on computer restore disks, must serve 15-month prison term"](https://www.washingtonpost.com/news/true-crime/wp/2018/04/24/recycling-innovator-eric-lundgren-loses-appeal-on-computer-restore-discs-must-serve-15-month-prison-term/?noredirect=on&utm_term=.88e7c42bb9af) by Tom Jackson
