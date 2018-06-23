@@ -34,7 +34,7 @@ explicit = "No"
   * ["How Martin Luther King, Jr. Got Away With Plagiarism: Different Strokes for Different Folks."](https://www.garynorth.com/public/335.cfm)
   * ["Plagiarism Seen by Scholars In King's Ph.D. Dissertation"](https://www.nytimes.com/1991/10/11/us/boston-u-panel-finds-plagiarism-by-dr-king.html)
   * ["Boston U. Panel Finds Plagiarism by Dr. King"](https://www.nytimes.com/1991/10/11/us/boston-u-panel-finds-plagiarism-by-dr-king.html)
-* ["Plagiarism is not a Crime"](https://www.youtube.com/watch?v=y44GKihesHk&t=1789s)
+* ["Plagiarism is not a Crime"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2752139)
   * [Brian L Frye (@brianlfrye)](https://twitter.com/brianlfrye) on Twitter
 * ["A Commentary on No Law"](https://www.youtube.com/watch?v=y44GKihesHk&t=1789s)
   * [This clip](https://www.youtube.com/watch?time_continue=163&v=FXvF4lWPu4Y) is where the Martin Luther King Jr digression came from. It's a great talk.
