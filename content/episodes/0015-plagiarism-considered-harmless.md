@@ -50,8 +50,8 @@ explicit = "No"
   * ["Twitter convinced Trump doesn't know the lyrics to 'God Bless America'"](https://www.usatoday.com/story/news/politics/onpolitics/2018/06/05/god-bless-america-fail-trump-appears-not-know-lyrics/675308002/)
 * [Copyright](https://en.wikipedia.org/wiki/Copyright)
   * By "antithetical to the motivations of copyright," I meant that its true
-    purpose aside from getting authors paid, was more directly about then
-    commending those writings into the public domain as texts for the public to
+    purpose, aside from getting authors paid, was more directly about
+    consigning those writings into the public domain as texts for the public to
     collectively own. This is especially true of the American system, designed
     by people interested in that sharing of ideas, although the European system
     developed in a different way because the Berne Convention was drafted by
