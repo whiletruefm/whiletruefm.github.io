@@ -1,7 +1,6 @@
 +++
 title = "Plagiarism Considered Harmless"
-description = "Mike wants to talk about inappropriate historical revisionism and
-how plagiarism isn't a crime."
+description = "Mike wants to talk about inappropriate historical revisionism and how plagiarism isn't a crime."
 number = "0015"
 date = 2018-06-15T10:58:42-07:00
 draft = true
