@@ -2,7 +2,7 @@
 title = 'Kenneth Love'
 date = 2017-12-06T16:43:04-08:00
 headshotFilename = "kenneth-love.jpg"
-draft = true
+draft = false
 twitterAccount = "@kennethlove"
 +++
 

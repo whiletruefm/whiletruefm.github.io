@@ -2,7 +2,7 @@
 title = 'Daniel Lemmond'
 date = 2017-12-07T01:32:51-07:00
 headshotFilename = "daniel-lemmond.jpg"
-draft = true
+draft = false
 twitterAccount = "@danlemmond"
 +++
 
