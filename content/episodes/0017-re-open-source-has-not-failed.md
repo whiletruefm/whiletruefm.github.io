@@ -63,5 +63,9 @@ explicit = "No"
   have not yet turned profit even once and would be in big trouble if that were
   legally required. Tesla, anyone?
 
-# Talk to Mike and 14,000 others!
-* [invite.progdisc.club](https://invite.progdisc.club)
+# Talk to Mike
+* [invite.progdisc.club](https://invite.progdisc.club) (14,000 members and
+  growing!)
+* [Mike (@lethargilistic) on Twitter](https://twitter.com/lethargilistic)
+* [Mike (@lethargilistic) on Dev.to](https://dev.to/lethargilistic)
+* [Mike (@lethargilistic) on GitHub](https://github.com/lethargilistic)
