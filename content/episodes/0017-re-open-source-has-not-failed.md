@@ -58,7 +58,7 @@ explicit = "No"
   theory in their opinion. That was dicta, not a holding, and that case was in
   Michigan, not Delaware. If it wasn't in Delaware, it's basically irrelevant
   when it comes to large corporations. Additionally, there is plenty of dicta in
-  Deleware that says otherwise.
+  Delaware that says otherwise.
 * Also, I forgot to mention that there are plenty of prominent corporations that
   have not yet turned profit even once and would be in big trouble if that were
   legally required. Tesla, anyone?
