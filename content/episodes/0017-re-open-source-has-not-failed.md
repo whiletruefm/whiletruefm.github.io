@@ -34,7 +34,7 @@ explicit = "No"
   * Not an endorsement because I haven't researched it, but there is a [Normative Theory of Law](http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=2772&context=wmlr)
 * [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring) by Rachel Carson
   * ["The Silent Spring of Rachel Carson"](https://www.youtube.com/watch?v=c6fAP6Fjx-Y), a famous 1962 CBS documentary made at the height of *Silent Spring*'s fame, an engaging summary of the book.
-  * [*American Experience: Rachel Carson*](http://www.pbs.org/wgbh/americanexperience/films/rachel-carson/), a 2016 documentary about Carson's life that [is excellent](https://letterboxd.com/lethargilistic/film/american-experience-rachel-carson/). (It is also [on Netflix](https://www.netflix.com/watch/80991258)
+  * [*American Experience: Rachel Carson*](http://www.pbs.org/wgbh/americanexperience/films/rachel-carson/), a 2016 documentary about Carson's life that [is excellent](https://letterboxd.com/lethargilistic/film/american-experience-rachel-carson/). (It is also [on Netflix](https://www.netflix.com/watch/80991258))
 * [DDT](https://en.wikipedia.org/wiki/DDT)
 * [Environmental Protection Agency](https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency) (EPA)
 
@@ -46,7 +46,7 @@ explicit = "No"
   * [Visual Artists Rights Act](https://en.wikipedia.org/wiki/Visual_Artists_Rights_Act)
 * ["Original work of authorship fixed in a tangible medium of expression"](https://www.law.cornell.edu/uscode/text/17/102)
 
-# Software R&D happens without copyright
+# The Shareholder Value Myth
 * [Lynn A. Stout](https://en.wikipedia.org/wiki/Lynn_A._Stout)
   * [Short video explanation](https://www.youtube.com/watch?v=ZzztBF9nprA) (3 minutes)
   * [Another short explanation](https://www.youtube.com/watch?v=fMNuDZYiqTY) (8 minutes)
