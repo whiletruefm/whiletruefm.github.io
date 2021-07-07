@@ -243,6 +243,7 @@ explicit = "No"
   - ["U.S. colonists drank TWICE the amount of modern Americans as research shows founding fathers guzzled six gallons of pure alcohol every year"](http://www.dailymail.co.uk/news/article-2284771/U-S-colonists-drank-TWICE-modern-Americans-research-shows-founding-fathers-guzzled-gallons-pure-alcohol-year-inspired-Brits.html) by Matt Blake
   - ["The Revolution of American Drinking"](http://ushistoryscene.com/article/american-drinking/) by Christina Regelski
   - ["Drink Like a Colonial American Day"](http://www.fourpoundsflour.com/drink-like-a-colonial-american-day/) by Sarah Lohman
+- ["Beer was not a substitute for water"](https://www.reddit.com/r/AskHistorians/comments/1svj1q/how_did_people_esp_european_townsmen_get_fresh/ce1r5xw/)
 
 # Guest credits
 - Suspicious Woman &mdash; Debra Overby
